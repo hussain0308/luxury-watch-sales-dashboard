@@ -1,0 +1,12 @@
+WatchID,Brand,Model,Category,Base Price (USD),Material,Launch Year,PopularityWeight,Full Name
+1,Rolex,Submariner Date,Diver,10500,Stainless Steel,2020,10,Rolex Submariner Date
+2,Rolex,Daytona,Chronograph,15000,Stainless Steel,2016,8,Rolex Daytona
+3,Rolex,GMT-Master II,Travel,12500,Steel/Ceramic,2019,9,Rolex GMT-Master II
+4,Patek Philippe,Nautilus 5711,Sports Luxury,45000,Stainless Steel,2006,4,Patek Philippe Nautilus 5711
+5,Patek Philippe,Calatrava,Dress,32000,Rose Gold,2018,5,Patek Philippe Calatrava
+6,Patek Philippe,Aquanaut,Sports Luxury,38000,Steel/Rubber,2017,4,Patek Philippe Aquanaut
+7,Audemars Piguet,Royal Oak,Sports Luxury,28000,Stainless Steel,2019,7,Audemars Piguet Royal Oak
+8,Audemars Piguet,Royal Oak Offshore,Chronograph,35000,Steel/Ceramic,2020,5,Audemars Piguet Royal Oak Offshore
+9,Richard Mille,RM 11-03,Chronograph,220000,Carbon TPT,2021,2,Richard Mille RM 11-03
+10,Richard Mille,RM 65-01,Automatic,250000,Titanium,2022,2,Richard Mille RM 65-01
+11,Richard Mille,RM 27-04,Tourbillon,950000,NTPT Carbon,2020,1,Richard Mille RM 27-04

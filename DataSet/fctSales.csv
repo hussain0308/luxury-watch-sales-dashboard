@@ -1,0 +1,1801 @@
+SaleID,WatchID,Date,Quantity,Sale Price (USD),Revenue (USD),Region,Retailer Type,Customer Segment
+794,3,2023-01-01,1,12685.94,12685.94,Europe,Authorized Dealer,First-time Buyer
+1043,5,2023-01-01,1,32668.62,32668.62,Europe,Authorized Dealer,Collector
+1186,5,2023-01-01,1,33013.4,33013.4,Europe,Boutique Store,Collector
+769,3,2023-01-01,1,12152.39,12152.39,India,Authorized Dealer,Investor
+47,1,2023-01-01,1,10710.81,10710.81,India,Online Exclusive,First-time Buyer
+186,7,2023-01-02,1,28341.31,28341.31,India,Online Exclusive,Collector
+841,8,2023-01-02,1,34898.79,34898.79,Europe,Boutique Store,Collector
+68,1,2023-01-03,1,10744.15,10744.15,Europe,Authorized Dealer,Gift Purchase
+536,7,2023-01-03,1,27811.5,27811.5,Europe,Authorized Dealer,Collector
+1238,7,2023-01-03,1,29028.36,29028.36,North America,Authorized Dealer,Collector
+1126,8,2023-01-03,1,35109.93,35109.93,Europe,Boutique Store,First-time Buyer
+753,7,2023-01-04,1,28077.61,28077.61,Asia Pacific,Online Exclusive,Investor
+1070,9,2023-01-04,1,235588.21,235588.21,Europe,Authorized Dealer,First-time Buyer
+742,9,2023-01-04,1,230981.06,230981.06,Asia Pacific,Authorized Dealer,Gift Purchase
+250,3,2023-01-05,1,12580.16,12580.16,Asia Pacific,Boutique Store,Collector
+329,1,2023-01-05,1,10646.51,10646.51,North America,Boutique Store,First-time Buyer
+31,6,2023-01-06,1,38757.8,38757.8,Middle East,Boutique Store,Collector
+683,3,2023-01-06,1,13361.8,13361.8,Asia Pacific,Boutique Store,Collector
+650,3,2023-01-07,1,12658.67,12658.67,Middle East,Boutique Store,Collector
+509,6,2023-01-07,1,38048.24,38048.24,India,Authorized Dealer,First-time Buyer
+485,7,2023-01-08,1,28533.93,28533.93,India,Auction House,First-time Buyer
+1377,8,2023-01-08,1,36375.26,36375.26,Asia Pacific,Authorized Dealer,Collector
+754,7,2023-01-08,1,26887.36,26887.36,Asia Pacific,Boutique Store,First-time Buyer
+1187,5,2023-01-09,1,34056.32,34056.32,Europe,Boutique Store,First-time Buyer
+1023,4,2023-01-09,1,43807.07,43807.07,North America,Authorized Dealer,First-time Buyer
+854,7,2023-01-09,1,27689.02,27689.02,India,Authorized Dealer,Investor
+1394,2,2023-01-09,1,14984.46,14984.46,India,Boutique Store,Gift Purchase
+288,7,2023-01-10,1,28419.38,28419.38,Asia Pacific,Online Exclusive,Investor
+604,7,2023-01-10,1,28534.76,28534.76,Middle East,Boutique Store,Gift Purchase
+362,3,2023-01-10,1,13095.49,13095.49,Asia Pacific,Boutique Store,Collector
+1690,8,2023-01-10,1,37574.04,37574.04,India,Boutique Store,Collector
+1715,10,2023-01-10,1,263900.26,263900.26,Europe,Online Exclusive,Collector
+924,2,2023-01-10,1,15532.03,15532.03,North America,Auction House,First-time Buyer
+890,9,2023-01-11,1,222173.35,222173.35,Europe,Boutique Store,Investor
+1034,2,2023-01-11,1,14800.01,14800.01,Asia Pacific,Authorized Dealer,Collector
+206,2,2023-01-11,1,15362.99,15362.99,India,Authorized Dealer,Collector
+203,3,2023-01-11,1,12142.43,12142.43,Europe,Auction House,Collector
+410,4,2023-01-11,1,43618.75,43618.75,Europe,Boutique Store,First-time Buyer
+276,3,2023-01-12,1,12250.28,12250.28,India,Authorized Dealer,First-time Buyer
+722,4,2023-01-12,1,44677.55,44677.55,India,Authorized Dealer,First-time Buyer
+954,2,2023-01-14,1,14790.46,14790.46,Europe,Boutique Store,First-time Buyer
+1455,7,2023-01-14,1,27751.08,27751.08,India,Authorized Dealer,Investor
+752,7,2023-01-15,1,28195.71,28195.71,Europe,Boutique Store,Collector
+768,5,2023-01-17,1,31357.49,31357.49,Middle East,Boutique Store,First-time Buyer
+1294,5,2023-01-17,1,32399.31,32399.31,India,Authorized Dealer,Collector
+817,5,2023-01-17,1,32854.54,32854.54,North America,Boutique Store,First-time Buyer
+266,2,2023-01-18,1,15668.84,15668.84,North America,Boutique Store,Collector
+700,1,2023-01-19,1,10323.89,10323.89,Asia Pacific,Authorized Dealer,Investor
+319,3,2023-01-20,1,13052.89,13052.89,Europe,Boutique Store,First-time Buyer
+1171,5,2023-01-20,1,31216.08,31216.08,Europe,Boutique Store,Gift Purchase
+830,7,2023-01-20,1,27106.16,27106.16,Asia Pacific,Auction House,Collector
+891,2,2023-01-21,1,15507.69,15507.69,North America,Online Exclusive,Gift Purchase
+310,8,2023-01-22,1,33581.11,33581.11,North America,Boutique Store,First-time Buyer
+9,3,2023-01-22,1,12296.1,12296.1,Europe,Authorized Dealer,First-time Buyer
+508,9,2023-01-23,1,231979.9,231979.9,Europe,Boutique Store,Collector
+1210,3,2023-01-23,1,12623.81,12623.81,Europe,Authorized Dealer,Investor
+1575,5,2023-01-23,1,30737.54,30737.54,North America,Authorized Dealer,Investor
+1461,5,2023-01-24,1,30861.92,30861.92,Asia Pacific,Boutique Store,Collector
+1388,4,2023-01-24,1,45736.24,45736.24,Europe,Boutique Store,Collector
+262,3,2023-01-24,1,12759.46,12759.46,North America,Online Exclusive,Investor
+1040,7,2023-01-24,1,27216.22,27216.22,North America,Authorized Dealer,Collector
+389,3,2023-01-24,1,12537.93,12537.93,North America,Boutique Store,Investor
+286,4,2023-01-24,1,44384.32,44384.32,Europe,Boutique Store,Investor
+402,8,2023-01-24,1,36766.39,36766.39,Asia Pacific,Auction House,First-time Buyer
+1209,5,2023-01-24,1,32561.69,32561.69,Middle East,Online Exclusive,Collector
+192,2,2023-01-24,1,14826.8,14826.8,Europe,Authorized Dealer,First-time Buyer
+674,6,2023-01-25,1,37647.36,37647.36,Asia Pacific,Authorized Dealer,Collector
+610,3,2023-01-26,1,12848.81,12848.81,India,Auction House,Investor
+1501,5,2023-01-26,1,32727.31,32727.31,Asia Pacific,Boutique Store,Gift Purchase
+983,6,2023-01-26,1,40207.78,40207.78,Middle East,Boutique Store,Collector
+1481,9,2023-01-26,1,228093.31,228093.31,Europe,Auction House,Collector
+1138,6,2023-01-27,1,40007.02,40007.02,Middle East,Boutique Store,First-time Buyer
+1460,6,2023-01-27,1,37545.84,37545.84,Asia Pacific,Authorized Dealer,First-time Buyer
+1440,1,2023-01-27,1,10894.16,10894.16,Asia Pacific,Online Exclusive,First-time Buyer
+772,1,2023-01-27,1,10823.7,10823.7,Europe,Boutique Store,Investor
+723,3,2023-01-28,1,13215.75,13215.75,Europe,Authorized Dealer,Investor
+1548,1,2023-01-29,1,10727.55,10727.55,North America,Authorized Dealer,Gift Purchase
+457,7,2023-01-29,1,28379.57,28379.57,Asia Pacific,Boutique Store,Gift Purchase
+1405,3,2023-01-29,1,12998.08,12998.08,North America,Authorized Dealer,Investor
+309,3,2023-01-30,1,12791.46,12791.46,North America,Auction House,Investor
+818,2,2023-01-30,1,15989.41,15989.41,North America,Boutique Store,First-time Buyer
+1640,2,2023-01-30,1,15188.12,15188.12,Asia Pacific,Auction House,Collector
+1610,1,2023-01-30,1,10955.21,10955.21,Asia Pacific,Authorized Dealer,Collector
+414,1,2023-01-31,1,10648.93,10648.93,North America,Authorized Dealer,Investor
+952,9,2023-01-31,1,209352.14,209352.14,Asia Pacific,Authorized Dealer,Collector
+454,5,2023-01-31,1,31758.59,31758.59,North America,Boutique Store,Gift Purchase
+1259,5,2023-02-01,1,32080.9,32080.9,Europe,Boutique Store,First-time Buyer
+77,1,2023-02-01,1,10435.73,10435.73,India,Authorized Dealer,First-time Buyer
+729,11,2023-02-01,1,955047.63,955047.63,Asia Pacific,Online Exclusive,Collector
+574,2,2023-02-01,1,14481.15,14481.15,Europe,Authorized Dealer,Investor
+826,5,2023-02-01,1,31029.11,31029.11,Middle East,Authorized Dealer,First-time Buyer
+241,8,2023-02-02,1,34488.2,34488.2,Europe,Online Exclusive,First-time Buyer
+1086,1,2023-02-02,1,10213.81,10213.81,Europe,Authorized Dealer,Collector
+1153,3,2023-02-02,1,12338.13,12338.13,Europe,Boutique Store,Collector
+518,5,2023-02-02,1,32981.05,32981.05,Europe,Auction House,Gift Purchase
+243,5,2023-02-02,1,33612.47,33612.47,India,Boutique Store,Collector
+211,9,2023-02-03,1,210333.51,210333.51,Europe,Authorized Dealer,Gift Purchase
+655,3,2023-02-04,1,12997.16,12997.16,Europe,Boutique Store,First-time Buyer
+897,2,2023-02-04,1,15194.71,15194.71,North America,Boutique Store,First-time Buyer
+1617,3,2023-02-04,1,12503.01,12503.01,Asia Pacific,Boutique Store,Collector
+1555,2,2023-02-05,1,16196.91,16196.91,Middle East,Boutique Store,Investor
+1310,4,2023-02-06,1,48081.25,48081.25,Europe,Authorized Dealer,Gift Purchase
+302,1,2023-02-06,2,11009.49,22018.98,North America,Authorized Dealer,First-time Buyer
+463,2,2023-02-07,1,15895.09,15895.09,North America,Boutique Store,First-time Buyer
+1524,8,2023-02-07,1,36847.49,36847.49,North America,Authorized Dealer,Gift Purchase
+590,3,2023-02-08,1,12597.7,12597.7,India,Online Exclusive,Collector
+978,9,2023-02-09,1,220900.76,220900.76,Asia Pacific,Boutique Store,Collector
+217,7,2023-02-10,1,29414.8,29414.8,Asia Pacific,Auction House,First-time Buyer
+743,3,2023-02-10,1,12111.1,12111.1,Asia Pacific,Authorized Dealer,Collector
+1016,4,2023-02-10,1,46050.92,46050.92,North America,Authorized Dealer,Collector
+1637,7,2023-02-11,1,27099.83,27099.83,North America,Boutique Store,Collector
+257,6,2023-02-11,1,38367.24,38367.24,Europe,Boutique Store,Investor
+1595,1,2023-02-12,1,11330.85,11330.85,Europe,Boutique Store,Investor
+911,2,2023-02-13,1,16072.65,16072.65,India,Boutique Store,Collector
+1051,11,2023-02-14,1,1000812.42,1000812.42,India,Online Exclusive,First-time Buyer
+1451,9,2023-02-15,1,215200.1,215200.1,North America,Boutique Store,Investor
+19,3,2023-02-15,1,12809.15,12809.15,North America,Online Exclusive,Gift Purchase
+1143,1,2023-02-15,1,11258.57,11258.57,Europe,Online Exclusive,First-time Buyer
+1564,7,2023-02-15,1,29643.19,29643.19,Asia Pacific,Boutique Store,Collector
+805,2,2023-02-16,1,15458.16,15458.16,Middle East,Online Exclusive,Investor
+1132,9,2023-02-16,1,228926.9,228926.9,North America,Boutique Store,First-time Buyer
+1078,2,2023-02-16,2,15237.73,30475.46,Europe,Authorized Dealer,First-time Buyer
+1645,5,2023-02-17,1,30478.06,30478.06,North America,Online Exclusive,Collector
+1467,7,2023-02-17,2,29383.88,58767.76,Middle East,Authorized Dealer,Collector
+268,1,2023-02-17,1,11132.19,11132.19,Middle East,Authorized Dealer,Collector
+1485,3,2023-02-17,1,11967.71,11967.71,North America,Boutique Store,Gift Purchase
+205,2,2023-02-17,1,14264.48,14264.48,North America,Authorized Dealer,Collector
+57,3,2023-02-17,1,13053.16,13053.16,North America,Boutique Store,First-time Buyer
+1037,1,2023-02-17,1,10667.73,10667.73,North America,Boutique Store,Investor
+875,4,2023-02-17,1,47795.27,47795.27,India,Boutique Store,First-time Buyer
+1192,1,2023-02-18,1,11142.43,11142.43,North America,Boutique Store,First-time Buyer
+1424,2,2023-02-18,1,15805.2,15805.2,Middle East,Boutique Store,Collector
+1619,2,2023-02-18,1,15083.0,15083.0,Europe,Boutique Store,First-time Buyer
+15,2,2023-02-19,1,14789.3,14789.3,Europe,Online Exclusive,Investor
+1621,2,2023-02-19,1,14287.63,14287.63,Europe,Authorized Dealer,Investor
+666,3,2023-02-20,1,12264.85,12264.85,India,Boutique Store,Gift Purchase
+486,6,2023-02-21,1,38048.72,38048.72,Europe,Online Exclusive,Collector
+1409,8,2023-02-21,1,36069.68,36069.68,North America,Boutique Store,Investor
+240,5,2023-02-22,1,31438.22,31438.22,Middle East,Online Exclusive,Collector
+1324,2,2023-02-22,1,15731.34,15731.34,India,Auction House,Investor
+955,8,2023-02-22,1,36507.71,36507.71,Asia Pacific,Boutique Store,Collector
+1140,1,2023-02-23,1,10527.82,10527.82,Middle East,Authorized Dealer,Collector
+1500,6,2023-02-23,1,37586.8,37586.8,Europe,Authorized Dealer,Collector
+1350,5,2023-02-23,1,30434.25,30434.25,Middle East,Boutique Store,Collector
+1332,3,2023-02-23,1,11994.05,11994.05,Middle East,Boutique Store,Investor
+748,11,2023-02-24,1,905973.66,905973.66,Middle East,Online Exclusive,First-time Buyer
+1000,4,2023-02-24,1,46216.56,46216.56,Europe,Online Exclusive,Collector
+1506,5,2023-02-25,1,34345.83,34345.83,India,Authorized Dealer,Collector
+214,1,2023-02-25,1,10716.13,10716.13,Asia Pacific,Boutique Store,Gift Purchase
+922,5,2023-02-26,1,31972.1,31972.1,Europe,Authorized Dealer,Collector
+50,7,2023-02-26,1,28136.09,28136.09,Europe,Authorized Dealer,Investor
+1664,7,2023-02-26,1,29158.89,29158.89,North America,Auction House,First-time Buyer
+341,1,2023-02-26,1,11284.4,11284.4,Europe,Online Exclusive,Collector
+105,2,2023-02-27,1,15615.63,15615.63,Asia Pacific,Auction House,Investor
+908,5,2023-02-27,1,30911.32,30911.32,India,Boutique Store,Investor
+313,2,2023-02-27,1,15154.29,15154.29,Asia Pacific,Boutique Store,First-time Buyer
+344,11,2023-02-27,1,939872.1,939872.1,Middle East,Boutique Store,Collector
+1031,2,2023-02-28,1,14800.87,14800.87,India,Boutique Store,Investor
+1035,4,2023-02-28,1,47572.7,47572.7,Europe,Online Exclusive,Investor
+1160,1,2023-02-28,1,10539.79,10539.79,India,Boutique Store,First-time Buyer
+1145,7,2023-03-01,1,27372.82,27372.82,Asia Pacific,Online Exclusive,Collector
+1231,6,2023-03-01,1,39407.01,39407.01,Europe,Boutique Store,First-time Buyer
+591,11,2023-03-02,1,909781.89,909781.89,Europe,Boutique Store,Gift Purchase
+1063,7,2023-03-02,1,29150.83,29150.83,North America,Boutique Store,Investor
+1062,7,2023-03-02,2,26624.8,53249.6,Europe,Online Exclusive,Collector
+484,7,2023-03-02,1,27261.01,27261.01,Middle East,Online Exclusive,First-time Buyer
+273,7,2023-03-03,1,28510.55,28510.55,Asia Pacific,Authorized Dealer,Collector
+146,2,2023-03-03,1,15286.27,15286.27,North America,Authorized Dealer,Gift Purchase
+1368,11,2023-03-03,1,950401.37,950401.37,North America,Boutique Store,Investor
+185,6,2023-03-04,1,38955.58,38955.58,Middle East,Authorized Dealer,Collector
+1385,1,2023-03-04,1,10559.04,10559.04,Europe,Auction House,Collector
+570,6,2023-03-05,1,38764.94,38764.94,North America,Boutique Store,Gift Purchase
+1219,5,2023-03-06,1,32387.84,32387.84,Asia Pacific,Boutique Store,First-time Buyer
+197,1,2023-03-06,1,10069.12,10069.12,North America,Authorized Dealer,Gift Purchase
+253,5,2023-03-07,1,32835.95,32835.95,India,Boutique Store,Collector
+1526,8,2023-03-08,1,34054.98,34054.98,Asia Pacific,Boutique Store,Collector
+324,5,2023-03-08,1,33722.11,33722.11,Middle East,Authorized Dealer,First-time Buyer
+1195,8,2023-03-08,2,37022.69,74045.38,Middle East,Online Exclusive,First-time Buyer
+1540,3,2023-03-08,1,12429.36,12429.36,North America,Online Exclusive,Investor
+825,10,2023-03-09,1,261157.07,261157.07,Asia Pacific,Boutique Store,Collector
+1489,5,2023-03-09,1,30810.02,30810.02,North America,Auction House,Investor
+489,6,2023-03-09,1,40615.01,40615.01,Europe,Online Exclusive,First-time Buyer
+131,1,2023-03-09,1,11074.37,11074.37,Europe,Authorized Dealer,Collector
+1198,2,2023-03-09,1,15446.02,15446.02,India,Auction House,First-time Buyer
+660,7,2023-03-10,1,28157.07,28157.07,India,Auction House,First-time Buyer
+1099,4,2023-03-10,1,47448.41,47448.41,Europe,Online Exclusive,Collector
+936,7,2023-03-10,1,27037.87,27037.87,Europe,Boutique Store,Gift Purchase
+472,3,2023-03-10,1,12800.59,12800.59,Europe,Authorized Dealer,Collector
+1702,3,2023-03-11,1,13491.83,13491.83,Asia Pacific,Authorized Dealer,Investor
+916,5,2023-03-12,1,34271.45,34271.45,India,Online Exclusive,First-time Buyer
+224,1,2023-03-12,1,11286.33,11286.33,India,Boutique Store,Gift Purchase
+459,5,2023-03-12,1,34310.38,34310.38,Middle East,Online Exclusive,First-time Buyer
+831,2,2023-03-12,1,14973.3,14973.3,Asia Pacific,Authorized Dealer,First-time Buyer
+1600,9,2023-03-13,1,226280.88,226280.88,North America,Boutique Store,Collector
+1042,1,2023-03-13,1,11279.48,11279.48,Asia Pacific,Boutique Store,First-time Buyer
+5,4,2023-03-14,1,43881.13,43881.13,North America,Authorized Dealer,First-time Buyer
+502,1,2023-03-14,1,10678.34,10678.34,North America,Boutique Store,Collector
+640,6,2023-03-14,1,40624.7,40624.7,Asia Pacific,Authorized Dealer,Collector
+507,1,2023-03-14,1,10992.21,10992.21,Middle East,Online Exclusive,Collector
+488,5,2023-03-16,1,33678.57,33678.57,India,Authorized Dealer,First-time Buyer
+1769,1,2023-03-16,1,10246.56,10246.56,Asia Pacific,Online Exclusive,First-time Buyer
+230,1,2023-03-16,1,10884.08,10884.08,India,Authorized Dealer,First-time Buyer
+235,4,2023-03-17,1,46497.28,46497.28,North America,Boutique Store,First-time Buyer
+663,3,2023-03-17,1,12985.3,12985.3,Europe,Auction House,First-time Buyer
+675,2,2023-03-18,1,15977.97,15977.97,Asia Pacific,Authorized Dealer,Collector
+633,4,2023-03-18,1,47143.39,47143.39,Europe,Authorized Dealer,First-time Buyer
+1361,2,2023-03-19,1,14958.12,14958.12,Europe,Online Exclusive,Collector
+895,2,2023-03-19,1,15133.48,15133.48,North America,Authorized Dealer,Gift Purchase
+1399,3,2023-03-19,1,13138.83,13138.83,North America,Authorized Dealer,Investor
+1797,2,2023-03-20,1,15164.07,15164.07,Asia Pacific,Authorized Dealer,Gift Purchase
+1601,7,2023-03-20,1,29129.08,29129.08,India,Online Exclusive,Gift Purchase
+339,7,2023-03-20,1,27810.28,27810.28,Middle East,Auction House,Gift Purchase
+62,7,2023-03-21,1,30188.59,30188.59,North America,Authorized Dealer,Collector
+1758,8,2023-03-22,1,35040.48,35040.48,India,Auction House,Investor
+601,2,2023-03-22,1,14962.96,14962.96,North America,Online Exclusive,First-time Buyer
+458,3,2023-03-23,1,11921.68,11921.68,North America,Online Exclusive,Collector
+800,5,2023-03-23,2,32480.36,64960.72,India,Authorized Dealer,Gift Purchase
+552,5,2023-03-23,1,30692.44,30692.44,Asia Pacific,Authorized Dealer,First-time Buyer
+216,6,2023-03-23,1,40672.39,40672.39,Middle East,Online Exclusive,First-time Buyer
+959,1,2023-03-24,1,11134.42,11134.42,Middle East,Auction House,Gift Purchase
+859,3,2023-03-24,1,11884.26,11884.26,Middle East,Online Exclusive,Collector
+835,7,2023-03-24,1,27163.76,27163.76,Europe,Authorized Dealer,Gift Purchase
+995,10,2023-03-24,1,240757.52,240757.52,Middle East,Authorized Dealer,Investor
+495,4,2023-03-24,1,47186.47,47186.47,North America,Online Exclusive,Investor
+346,5,2023-03-26,1,30410.66,30410.66,India,Authorized Dealer,First-time Buyer
+635,3,2023-03-26,1,13384.51,13384.51,India,Authorized Dealer,Gift Purchase
+420,8,2023-03-26,1,37782.44,37782.44,Middle East,Online Exclusive,First-time Buyer
+1386,7,2023-03-26,1,27826.69,27826.69,Middle East,Boutique Store,Collector
+201,6,2023-03-26,1,38713.88,38713.88,Middle East,Boutique Store,First-time Buyer
+188,7,2023-03-26,1,27202.59,27202.59,North America,Authorized Dealer,Gift Purchase
+682,3,2023-03-27,1,13309.17,13309.17,North America,Auction House,First-time Buyer
+1012,1,2023-03-28,1,10271.21,10271.21,Europe,Online Exclusive,Investor
+298,8,2023-03-28,1,34697.89,34697.89,North America,Boutique Store,First-time Buyer
+1264,6,2023-03-29,1,37760.37,37760.37,India,Auction House,Collector
+505,1,2023-03-29,1,10132.26,10132.26,North America,Boutique Store,Investor
+1045,2,2023-03-29,1,15676.06,15676.06,Middle East,Boutique Store,First-time Buyer
+1190,6,2023-03-30,1,37056.26,37056.26,Middle East,Auction House,Collector
+395,7,2023-03-31,1,27514.11,27514.11,Middle East,Boutique Store,Collector
+400,3,2023-04-01,1,13103.92,13103.92,Asia Pacific,Boutique Store,Collector
+1315,3,2023-04-01,1,13135.91,13135.91,Asia Pacific,Authorized Dealer,Investor
+159,2,2023-04-01,1,16014.35,16014.35,Europe,Auction House,First-time Buyer
+227,2,2023-04-02,1,16112.94,16112.94,North America,Boutique Store,Gift Purchase
+1547,8,2023-04-02,1,35298.73,35298.73,Europe,Online Exclusive,Collector
+407,7,2023-04-02,1,27158.19,27158.19,India,Auction House,Collector
+26,7,2023-04-03,1,27283.02,27283.02,India,Online Exclusive,First-time Buyer
+716,3,2023-04-04,1,12703.42,12703.42,Middle East,Online Exclusive,Collector
+573,5,2023-04-04,1,31796.78,31796.78,India,Authorized Dealer,Collector
+397,9,2023-04-04,1,212034.98,212034.98,Europe,Auction House,First-time Buyer
+49,3,2023-04-04,1,13228.42,13228.42,Europe,Authorized Dealer,First-time Buyer
+903,1,2023-04-05,1,11284.78,11284.78,Europe,Online Exclusive,Investor
+524,6,2023-04-06,2,37471.43,74942.86,Middle East,Online Exclusive,First-time Buyer
+1298,1,2023-04-06,2,11071.86,22143.72,North America,Authorized Dealer,Investor
+220,6,2023-04-06,2,37377.42,74754.84,Asia Pacific,Boutique Store,First-time Buyer
+1027,6,2023-04-06,1,37811.59,37811.59,Middle East,Auction House,Investor
+1792,8,2023-04-06,1,33981.78,33981.78,Europe,Online Exclusive,Collector
+1606,5,2023-04-06,1,30799.65,30799.65,North America,Boutique Store,Collector
+1249,2,2023-04-07,1,16015.71,16015.71,North America,Boutique Store,First-time Buyer
+491,7,2023-04-07,1,30238.24,30238.24,Asia Pacific,Auction House,Investor
+797,2,2023-04-08,2,15882.85,31765.7,Asia Pacific,Authorized Dealer,Gift Purchase
+373,1,2023-04-08,1,11074.74,11074.74,Asia Pacific,Boutique Store,Gift Purchase
+422,2,2023-04-08,1,15245.15,15245.15,North America,Boutique Store,Investor
+1473,9,2023-04-08,1,226032.99,226032.99,Middle East,Online Exclusive,First-time Buyer
+652,5,2023-04-09,1,30938.79,30938.79,Europe,Authorized Dealer,Collector
+776,3,2023-04-09,1,12962.72,12962.72,Europe,Boutique Store,Investor
+1749,1,2023-04-09,1,10921.87,10921.87,Europe,Online Exclusive,First-time Buyer
+1011,3,2023-04-11,1,12656.56,12656.56,India,Authorized Dealer,First-time Buyer
+13,3,2023-04-11,1,12549.22,12549.22,Europe,Online Exclusive,Investor
+1359,7,2023-04-12,1,29748.99,29748.99,Europe,Boutique Store,First-time Buyer
+1622,2,2023-04-13,1,14611.29,14611.29,North America,Boutique Store,First-time Buyer
+1309,4,2023-04-14,1,43327.39,43327.39,India,Authorized Dealer,Gift Purchase
+1776,1,2023-04-14,1,10737.24,10737.24,Middle East,Authorized Dealer,Collector
+1774,1,2023-04-14,1,10388.92,10388.92,Europe,Authorized Dealer,Gift Purchase
+1425,1,2023-04-15,1,10452.6,10452.6,Europe,Boutique Store,First-time Buyer
+636,1,2023-04-15,1,10356.67,10356.67,Asia Pacific,Authorized Dealer,Investor
+761,1,2023-04-16,1,10046.57,10046.57,Middle East,Authorized Dealer,First-time Buyer
+392,4,2023-04-16,1,48558.79,48558.79,Middle East,Auction House,Gift Purchase
+915,5,2023-04-17,2,32857.76,65715.52,Europe,Authorized Dealer,Investor
+1609,1,2023-04-18,1,10880.08,10880.08,North America,Boutique Store,Collector
+1396,6,2023-04-19,1,38473.41,38473.41,North America,Boutique Store,Gift Purchase
+225,9,2023-04-19,1,226943.73,226943.73,Asia Pacific,Authorized Dealer,Investor
+845,3,2023-04-19,1,13202.26,13202.26,Middle East,Authorized Dealer,Investor
+413,7,2023-04-20,1,29587.09,29587.09,North America,Boutique Store,First-time Buyer
+1275,1,2023-04-20,1,10434.74,10434.74,Asia Pacific,Boutique Store,First-time Buyer
+611,6,2023-04-20,1,37779.71,37779.71,India,Authorized Dealer,Collector
+1657,2,2023-04-21,1,15153.51,15153.51,Europe,Boutique Store,First-time Buyer
+658,10,2023-04-21,1,238060.71,238060.71,Asia Pacific,Boutique Store,First-time Buyer
+705,4,2023-04-21,1,47805.46,47805.46,Asia Pacific,Authorized Dealer,Investor
+1135,3,2023-04-22,1,13247.78,13247.78,Asia Pacific,Online Exclusive,First-time Buyer
+202,2,2023-04-24,1,15891.64,15891.64,Asia Pacific,Boutique Store,First-time Buyer
+1075,8,2023-04-24,1,34897.23,34897.23,Middle East,Online Exclusive,First-time Buyer
+1102,10,2023-04-25,1,242064.28,242064.28,Asia Pacific,Authorized Dealer,Gift Purchase
+168,2,2023-04-26,1,15418.13,15418.13,Asia Pacific,Authorized Dealer,Gift Purchase
+372,1,2023-04-27,1,10986.78,10986.78,Middle East,Authorized Dealer,Gift Purchase
+647,8,2023-04-28,1,37269.89,37269.89,North America,Online Exclusive,Collector
+811,1,2023-04-28,1,10518.2,10518.2,Europe,Authorized Dealer,Investor
+749,3,2023-04-29,1,13261.17,13261.17,Middle East,Boutique Store,Investor
+584,3,2023-04-29,1,12945.38,12945.38,India,Authorized Dealer,First-time Buyer
+1781,3,2023-04-30,1,12334.47,12334.47,India,Authorized Dealer,Gift Purchase
+1365,2,2023-04-30,1,16005.49,16005.49,India,Authorized Dealer,First-time Buyer
+79,5,2023-05-01,1,31884.27,31884.27,India,Auction House,First-time Buyer
+557,1,2023-05-01,1,10221.89,10221.89,Asia Pacific,Authorized Dealer,First-time Buyer
+452,2,2023-05-01,2,14468.86,28937.72,Europe,Boutique Store,First-time Buyer
+78,8,2023-05-02,1,37484.99,37484.99,Middle East,Authorized Dealer,First-time Buyer
+1014,6,2023-05-02,1,38077.17,38077.17,Europe,Boutique Store,Investor
+465,5,2023-05-02,1,31758.47,31758.47,Middle East,Authorized Dealer,Gift Purchase
+1006,6,2023-05-02,1,37800.41,37800.41,North America,Boutique Store,First-time Buyer
+1393,7,2023-05-02,1,29915.85,29915.85,Europe,Boutique Store,Gift Purchase
+1242,3,2023-05-03,1,11894.51,11894.51,Middle East,Online Exclusive,Collector
+1793,2,2023-05-03,1,15183.5,15183.5,North America,Authorized Dealer,Collector
+1517,2,2023-05-03,1,15312.41,15312.41,Middle East,Authorized Dealer,Collector
+8,3,2023-05-04,1,13347.94,13347.94,North America,Authorized Dealer,First-time Buyer
+1189,2,2023-05-04,1,14955.8,14955.8,India,Auction House,Investor
+953,1,2023-05-04,1,10573.43,10573.43,Europe,Online Exclusive,Gift Purchase
+1651,3,2023-05-04,1,13375.24,13375.24,Europe,Boutique Store,Collector
+382,5,2023-05-05,1,31458.31,31458.31,Europe,Boutique Store,Collector
+615,2,2023-05-06,1,14716.89,14716.89,North America,Boutique Store,Collector
+1497,1,2023-05-06,1,10873.81,10873.81,Europe,Authorized Dealer,First-time Buyer
+1476,2,2023-05-06,1,15378.64,15378.64,India,Auction House,Collector
+208,10,2023-05-06,1,252350.55,252350.55,Asia Pacific,Authorized Dealer,Investor
+1525,5,2023-05-07,1,30634.65,30634.65,Asia Pacific,Authorized Dealer,Collector
+511,2,2023-05-08,1,14846.56,14846.56,Europe,Boutique Store,Collector
+209,4,2023-05-08,1,47755.25,47755.25,Middle East,Boutique Store,Collector
+560,1,2023-05-09,2,10213.88,20427.76,India,Boutique Store,Collector
+1700,6,2023-05-09,1,37786.81,37786.81,Asia Pacific,Authorized Dealer,Collector
+271,2,2023-05-11,1,15129.92,15129.92,India,Online Exclusive,Collector
+1658,10,2023-05-11,1,247926.96,247926.96,North America,Auction House,Collector
+232,8,2023-05-11,1,34220.12,34220.12,North America,Boutique Store,First-time Buyer
+374,1,2023-05-11,2,10971.09,21942.18,Europe,Boutique Store,Collector
+989,2,2023-05-11,1,15363.4,15363.4,North America,Authorized Dealer,Collector
+1252,1,2023-05-11,1,11241.59,11241.59,Asia Pacific,Boutique Store,Collector
+1509,3,2023-05-12,1,13271.03,13271.03,Middle East,Auction House,Investor
+106,2,2023-05-12,1,14722.51,14722.51,Asia Pacific,Authorized Dealer,Collector
+134,2,2023-05-12,1,15472.42,15472.42,India,Authorized Dealer,Collector
+592,1,2023-05-13,1,10704.13,10704.13,Middle East,Boutique Store,Investor
+360,7,2023-05-13,1,27724.55,27724.55,Asia Pacific,Online Exclusive,Investor
+1046,1,2023-05-13,1,10270.24,10270.24,Middle East,Online Exclusive,Collector
+279,8,2023-05-13,1,33914.74,33914.74,Europe,Boutique Store,Gift Purchase
+1654,4,2023-05-14,1,48079.43,48079.43,Asia Pacific,Authorized Dealer,First-time Buyer
+670,11,2023-05-15,1,911186.43,911186.43,Europe,Authorized Dealer,Collector
+519,3,2023-05-15,1,12270.68,12270.68,North America,Boutique Store,Collector
+177,6,2023-05-15,1,40898.44,40898.44,India,Authorized Dealer,First-time Buyer
+355,3,2023-05-16,1,13438.84,13438.84,Asia Pacific,Boutique Store,Collector
+1021,3,2023-05-17,1,13062.93,13062.93,Europe,Boutique Store,Collector
+69,8,2023-05-17,1,37570.58,37570.58,Middle East,Boutique Store,Gift Purchase
+738,3,2023-05-17,2,12700.84,25401.68,Asia Pacific,Authorized Dealer,Gift Purchase
+833,8,2023-05-17,1,33360.74,33360.74,Asia Pacific,Authorized Dealer,Gift Purchase
+95,1,2023-05-18,1,10076.08,10076.08,India,Authorized Dealer,First-time Buyer
+152,3,2023-05-18,1,12876.89,12876.89,Europe,Boutique Store,Gift Purchase
+788,3,2023-05-19,1,12289.06,12289.06,North America,Boutique Store,Gift Purchase
+1201,1,2023-05-20,1,10083.09,10083.09,Europe,Boutique Store,Collector
+1618,6,2023-05-20,1,37601.39,37601.39,Europe,Boutique Store,Collector
+1421,4,2023-05-20,1,43815.18,43815.18,Asia Pacific,Authorized Dealer,Collector
+1488,1,2023-05-21,1,10270.18,10270.18,Asia Pacific,Authorized Dealer,Investor
+1207,5,2023-05-21,1,32383.87,32383.87,Europe,Authorized Dealer,Collector
+1329,7,2023-05-21,1,26817.17,26817.17,Middle East,Boutique Store,First-time Buyer
+746,2,2023-05-23,1,16112.71,16112.71,Middle East,Boutique Store,Collector
+1220,3,2023-05-24,1,12387.2,12387.2,Europe,Auction House,First-time Buyer
+1706,8,2023-05-24,1,33944.55,33944.55,Middle East,Boutique Store,Gift Purchase
+718,2,2023-05-24,1,15153.35,15153.35,Europe,Boutique Store,First-time Buyer
+598,5,2023-05-25,1,31891.26,31891.26,Asia Pacific,Authorized Dealer,First-time Buyer
+602,4,2023-05-25,1,47974.4,47974.4,North America,Boutique Store,Collector
+1799,5,2023-05-25,1,33062.18,33062.18,Europe,Online Exclusive,First-time Buyer
+569,3,2023-05-25,1,12323.37,12323.37,North America,Boutique Store,Gift Purchase
+1417,2,2023-05-26,1,15739.32,15739.32,North America,Online Exclusive,Gift Purchase
+649,7,2023-05-27,1,29638.31,29638.31,Europe,Online Exclusive,First-time Buyer
+770,1,2023-05-28,1,10673.73,10673.73,Asia Pacific,Auction House,First-time Buyer
+773,1,2023-05-28,1,11223.57,11223.57,Asia Pacific,Authorized Dealer,First-time Buyer
+814,1,2023-05-28,1,11306.9,11306.9,India,Authorized Dealer,Collector
+461,8,2023-05-28,1,33642.98,33642.98,Middle East,Boutique Store,Collector
+1620,1,2023-05-28,1,10825.22,10825.22,India,Boutique Store,Collector
+1549,8,2023-05-29,1,37146.49,37146.49,Asia Pacific,Boutique Store,Collector
+1262,8,2023-05-29,1,37252.82,37252.82,Middle East,Boutique Store,Gift Purchase
+1139,1,2023-05-29,1,10033.73,10033.73,Europe,Online Exclusive,Collector
+1116,5,2023-05-29,1,30616.74,30616.74,Asia Pacific,Authorized Dealer,Collector
+308,5,2023-05-30,1,33247.06,33247.06,Europe,Auction House,First-time Buyer
+119,5,2023-05-30,1,32360.12,32360.12,Asia Pacific,Boutique Store,First-time Buyer
+999,7,2023-05-30,1,29877.17,29877.17,Asia Pacific,Online Exclusive,First-time Buyer
+58,11,2023-05-31,1,1017216.08,1017216.08,North America,Authorized Dealer,First-time Buyer
+307,6,2023-06-01,1,37852.02,37852.02,India,Authorized Dealer,Collector
+1104,3,2023-06-01,1,13399.46,13399.46,India,Auction House,Collector
+1305,8,2023-06-01,1,36162.22,36162.22,Asia Pacific,Boutique Store,Gift Purchase
+822,1,2023-06-02,1,11001.34,11001.34,North America,Authorized Dealer,Collector
+1392,3,2023-06-02,1,13417.28,13417.28,Europe,Boutique Store,Collector
+1590,9,2023-06-03,1,236880.33,236880.33,North America,Authorized Dealer,First-time Buyer
+544,1,2023-06-04,1,10593.27,10593.27,India,Boutique Store,Investor
+1290,5,2023-06-05,1,30714.95,30714.95,North America,Authorized Dealer,Investor
+751,8,2023-06-05,1,37323.36,37323.36,India,Boutique Store,First-time Buyer
+1466,6,2023-06-05,1,37312.66,37312.66,Middle East,Authorized Dealer,Collector
+1401,8,2023-06-05,1,34755.39,34755.39,Asia Pacific,Authorized Dealer,Collector
+1203,5,2023-06-07,1,34259.89,34259.89,India,Authorized Dealer,Gift Purchase
+606,3,2023-06-07,1,13058.45,13058.45,Europe,Online Exclusive,Gift Purchase
+347,1,2023-06-07,1,11271.47,11271.47,Europe,Boutique Store,First-time Buyer
+1729,8,2023-06-07,2,34262.62,68525.24,Europe,Authorized Dealer,Gift Purchase
+226,2,2023-06-08,1,14974.22,14974.22,Europe,Boutique Store,Collector
+89,7,2023-06-09,2,28075.77,56151.54,North America,Authorized Dealer,Investor
+314,5,2023-06-10,1,32860.79,32860.79,Europe,Boutique Store,Investor
+512,2,2023-06-10,1,15938.23,15938.23,Asia Pacific,Authorized Dealer,First-time Buyer
+283,2,2023-06-10,1,15047.48,15047.48,Asia Pacific,Auction House,First-time Buyer
+566,11,2023-06-10,1,951355.81,951355.81,North America,Authorized Dealer,Investor
+145,9,2023-06-11,1,211909.3,211909.3,Europe,Auction House,Collector
+568,7,2023-06-12,1,27513.16,27513.16,India,Boutique Store,Investor
+429,1,2023-06-13,1,11103.59,11103.59,India,Authorized Dealer,First-time Buyer
+1574,5,2023-06-13,2,30823.45,61646.9,Asia Pacific,Authorized Dealer,Collector
+1408,2,2023-06-14,1,15589.8,15589.8,Europe,Boutique Store,Collector
+789,3,2023-06-14,1,13159.02,13159.02,Middle East,Auction House,Investor
+408,1,2023-06-16,1,11054.23,11054.23,North America,Boutique Store,Collector
+921,1,2023-06-17,1,10730.36,10730.36,North America,Authorized Dealer,First-time Buyer
+1686,3,2023-06-17,1,12958.72,12958.72,Asia Pacific,Boutique Store,Investor
+1422,7,2023-06-17,1,26870.66,26870.66,North America,Authorized Dealer,First-time Buyer
+352,1,2023-06-18,1,11036.97,11036.97,Europe,Boutique Store,Gift Purchase
+245,9,2023-06-18,1,209473.9,209473.9,Middle East,Online Exclusive,Collector
+912,7,2023-06-19,1,29260.02,29260.02,Europe,Boutique Store,Investor
+1121,5,2023-06-20,1,33223.49,33223.49,Europe,Boutique Store,Collector
+1453,3,2023-06-20,1,12131.77,12131.77,India,Boutique Store,Investor
+114,2,2023-06-21,1,15802.03,15802.03,Asia Pacific,Online Exclusive,Gift Purchase
+113,11,2023-06-21,1,963617.84,963617.84,North America,Authorized Dealer,Gift Purchase
+1507,6,2023-06-22,1,40935.26,40935.26,Europe,Boutique Store,Collector
+439,8,2023-06-22,1,35077.13,35077.13,North America,Authorized Dealer,Collector
+1762,8,2023-06-22,1,37717.41,37717.41,Asia Pacific,Boutique Store,Gift Purchase
+600,3,2023-06-23,1,12449.61,12449.61,India,Boutique Store,Collector
+476,1,2023-06-23,1,10078.5,10078.5,India,Boutique Store,Investor
+140,2,2023-06-23,1,15501.52,15501.52,India,Auction House,Gift Purchase
+1239,4,2023-06-24,1,46474.38,46474.38,Europe,Auction House,Gift Purchase
+234,3,2023-06-24,1,12218.42,12218.42,Asia Pacific,Authorized Dealer,Gift Purchase
+578,7,2023-06-24,1,27369.76,27369.76,North America,Boutique Store,Investor
+453,7,2023-06-24,1,29111.68,29111.68,Asia Pacific,Online Exclusive,Collector
+1074,5,2023-06-25,2,32829.74,65659.48,North America,Authorized Dealer,Collector
+1133,7,2023-06-25,1,29825.44,29825.44,India,Boutique Store,Collector
+147,7,2023-06-26,1,26776.02,26776.02,North America,Online Exclusive,Collector
+1724,1,2023-06-27,1,10683.64,10683.64,Asia Pacific,Authorized Dealer,First-time Buyer
+564,8,2023-06-27,1,36121.51,36121.51,India,Authorized Dealer,Gift Purchase
+1722,4,2023-06-28,1,43157.18,43157.18,Middle East,Online Exclusive,Investor
+525,4,2023-06-28,1,44510.22,44510.22,North America,Boutique Store,Collector
+438,3,2023-06-29,1,13074.81,13074.81,Europe,Boutique Store,First-time Buyer
+1384,6,2023-06-30,1,39344.72,39344.72,India,Boutique Store,Gift Purchase
+538,1,2023-07-01,1,10005.57,10005.57,Europe,Boutique Store,First-time Buyer
+138,7,2023-07-01,1,28864.17,28864.17,Asia Pacific,Boutique Store,Investor
+1256,6,2023-07-02,1,39821.33,39821.33,North America,Boutique Store,Gift Purchase
+149,7,2023-07-02,1,27603.28,27603.28,Asia Pacific,Boutique Store,First-time Buyer
+1358,2,2023-07-02,1,15471.61,15471.61,Middle East,Boutique Store,Collector
+1240,2,2023-07-02,1,15660.93,15660.93,North America,Online Exclusive,First-time Buyer
+514,5,2023-07-03,1,31165.5,31165.5,Middle East,Boutique Store,First-time Buyer
+1438,3,2023-07-03,1,13258.41,13258.41,Europe,Boutique Store,Investor
+1743,7,2023-07-03,1,29334.31,29334.31,India,Boutique Store,First-time Buyer
+917,2,2023-07-03,1,15004.67,15004.67,North America,Online Exclusive,Collector
+1004,2,2023-07-03,1,14388.11,14388.11,Middle East,Boutique Store,Collector
+991,9,2023-07-04,1,218297.8,218297.8,Asia Pacific,Online Exclusive,First-time Buyer
+1306,2,2023-07-05,1,15538.86,15538.86,Europe,Boutique Store,Collector
+935,7,2023-07-05,1,28738.67,28738.67,North America,Auction House,Collector
+1656,1,2023-07-05,1,10925.31,10925.31,North America,Auction House,Collector
+1304,2,2023-07-05,1,16158.95,16158.95,North America,Boutique Store,Collector
+901,2,2023-07-06,1,15208.18,15208.18,India,Authorized Dealer,Collector
+594,5,2023-07-06,1,34509.58,34509.58,North America,Authorized Dealer,Collector
+1472,7,2023-07-06,1,27049.77,27049.77,Middle East,Authorized Dealer,First-time Buyer
+1119,6,2023-07-06,1,38228.52,38228.52,Asia Pacific,Authorized Dealer,First-time Buyer
+1510,7,2023-07-07,1,28850.3,28850.3,North America,Online Exclusive,Collector
+1562,10,2023-07-08,1,244298.73,244298.73,North America,Online Exclusive,First-time Buyer
+1161,9,2023-07-09,1,223637.47,223637.47,North America,Online Exclusive,Investor
+1330,2,2023-07-09,1,15348.39,15348.39,Middle East,Auction House,Collector
+1311,4,2023-07-09,1,46936.57,46936.57,Asia Pacific,Authorized Dealer,First-time Buyer
+4,7,2023-07-09,2,27438.3,54876.6,Middle East,Auction House,Collector
+1780,1,2023-07-10,1,10596.21,10596.21,North America,Authorized Dealer,Investor
+629,7,2023-07-11,1,28295.66,28295.66,Asia Pacific,Auction House,Collector
+1777,9,2023-07-11,1,223499.49,223499.49,Europe,Authorized Dealer,First-time Buyer
+403,3,2023-07-11,1,12892.61,12892.61,Middle East,Boutique Store,Investor
+1395,3,2023-07-11,1,12043.7,12043.7,Europe,Boutique Store,Collector
+1531,1,2023-07-11,1,10329.91,10329.91,India,Boutique Store,Investor
+478,1,2023-07-12,1,11311.06,11311.06,Asia Pacific,Boutique Store,First-time Buyer
+1319,3,2023-07-12,1,11956.92,11956.92,Asia Pacific,Boutique Store,Investor
+1675,1,2023-07-13,1,11286.51,11286.51,North America,Boutique Store,Collector
+882,3,2023-07-15,1,12037.94,12037.94,Europe,Online Exclusive,Gift Purchase
+1416,5,2023-07-15,1,31039.64,31039.64,Asia Pacific,Boutique Store,Collector
+1652,1,2023-07-15,1,10812.99,10812.99,North America,Boutique Store,Collector
+1008,7,2023-07-15,1,27082.48,27082.48,Europe,Authorized Dealer,Collector
+1295,10,2023-07-15,1,261790.57,261790.57,Asia Pacific,Authorized Dealer,Gift Purchase
+44,6,2023-07-15,1,40456.15,40456.15,Europe,Boutique Store,Investor
+807,1,2023-07-15,1,10213.46,10213.46,North America,Online Exclusive,Collector
+1206,3,2023-07-16,1,12205.57,12205.57,Europe,Auction House,First-time Buyer
+1726,7,2023-07-16,1,30159.7,30159.7,Asia Pacific,Boutique Store,First-time Buyer
+1120,7,2023-07-16,1,27850.32,27850.32,Asia Pacific,Boutique Store,Investor
+1287,3,2023-07-16,1,13025.77,13025.77,North America,Boutique Store,Investor
+199,8,2023-07-17,1,37784.3,37784.3,North America,Online Exclusive,Gift Purchase
+1498,4,2023-07-18,1,46140.86,46140.86,North America,Boutique Store,First-time Buyer
+1327,2,2023-07-20,1,15946.01,15946.01,Asia Pacific,Online Exclusive,First-time Buyer
+1479,2,2023-07-20,1,15100.32,15100.32,India,Authorized Dealer,Collector
+517,3,2023-07-20,1,13109.33,13109.33,North America,Boutique Store,First-time Buyer
+1482,1,2023-07-20,1,10102.92,10102.92,Europe,Auction House,Investor
+1741,5,2023-07-20,1,31474.16,31474.16,Asia Pacific,Authorized Dealer,Gift Purchase
+1111,4,2023-07-21,1,44418.55,44418.55,Asia Pacific,Online Exclusive,Collector
+337,8,2023-07-21,1,35276.18,35276.18,North America,Online Exclusive,First-time Buyer
+322,2,2023-07-22,1,16043.97,16043.97,India,Auction House,Gift Purchase
+526,9,2023-07-22,1,231747.2,231747.2,Middle East,Online Exclusive,First-time Buyer
+1503,7,2023-07-22,1,29428.52,29428.52,India,Online Exclusive,Collector
+648,4,2023-07-23,1,44004.53,44004.53,North America,Auction House,Gift Purchase
+820,1,2023-07-23,1,10631.01,10631.01,India,Authorized Dealer,First-time Buyer
+644,7,2023-07-23,1,27142.46,27142.46,India,Auction House,Gift Purchase
+887,3,2023-07-23,1,13260.42,13260.42,North America,Boutique Store,Collector
+1018,3,2023-07-23,1,12529.05,12529.05,North America,Auction House,Collector
+348,1,2023-07-23,1,10117.71,10117.71,Asia Pacific,Boutique Store,Investor
+1710,6,2023-07-23,1,38638.83,38638.83,North America,Authorized Dealer,Gift Purchase
+295,5,2023-07-24,1,31128.47,31128.47,Middle East,Boutique Store,First-time Buyer
+1178,2,2023-07-24,1,15689.31,15689.31,North America,Online Exclusive,Collector
+1450,1,2023-07-25,1,10194.85,10194.85,Europe,Online Exclusive,First-time Buyer
+1360,3,2023-07-27,1,13016.38,13016.38,Asia Pacific,Auction House,First-time Buyer
+1557,9,2023-07-27,1,219672.08,219672.08,Asia Pacific,Online Exclusive,Collector
+1170,8,2023-07-28,1,37224.96,37224.96,India,Authorized Dealer,First-time Buyer
+1679,7,2023-07-28,1,28440.86,28440.86,Asia Pacific,Boutique Store,Investor
+737,2,2023-07-28,1,14856.66,14856.66,North America,Boutique Store,Collector
+623,6,2023-07-29,1,37022.89,37022.89,Europe,Online Exclusive,First-time Buyer
+829,2,2023-07-29,1,14834.99,14834.99,Middle East,Authorized Dealer,First-time Buyer
+125,2,2023-07-29,1,15686.67,15686.67,Middle East,Boutique Store,Collector
+1633,6,2023-07-29,1,38180.22,38180.22,North America,Boutique Store,Investor
+1784,8,2023-07-29,1,33779.34,33779.34,Middle East,Authorized Dealer,Investor
+129,1,2023-07-29,1,10383.66,10383.66,Asia Pacific,Authorized Dealer,Investor
+1535,7,2023-07-30,2,29516.05,59032.1,North America,Boutique Store,First-time Buyer
+1568,11,2023-07-30,1,960367.75,960367.75,Asia Pacific,Boutique Store,Investor
+1105,1,2023-07-30,1,11178.54,11178.54,North America,Boutique Store,Gift Purchase
+280,2,2023-07-30,1,16101.06,16101.06,India,Boutique Store,First-time Buyer
+328,8,2023-07-30,1,33321.16,33321.16,North America,Boutique Store,Investor
+1383,11,2023-07-30,1,995283.12,995283.12,Asia Pacific,Authorized Dealer,Gift Purchase
+1271,8,2023-07-31,1,33336.58,33336.58,Europe,Boutique Store,Collector
+939,6,2023-08-01,2,37231.59,74463.18,India,Boutique Store,Gift Purchase
+975,7,2023-08-01,1,29951.5,29951.5,Middle East,Authorized Dealer,Investor
+1768,2,2023-08-01,1,14775.01,14775.01,Asia Pacific,Authorized Dealer,Collector
+52,1,2023-08-02,1,10443.02,10443.02,India,Authorized Dealer,Investor
+766,1,2023-08-02,1,10982.53,10982.53,North America,Boutique Store,Collector
+1471,3,2023-08-02,1,13189.32,13189.32,North America,Auction House,Collector
+416,1,2023-08-02,1,11204.27,11204.27,Europe,Online Exclusive,First-time Buyer
+1244,1,2023-08-03,1,10724.24,10724.24,Europe,Boutique Store,Collector
+986,3,2023-08-04,1,13040.11,13040.11,Europe,Boutique Store,First-time Buyer
+363,10,2023-08-04,1,254987.8,254987.8,North America,Online Exclusive,Investor
+1717,3,2023-08-05,1,12293.38,12293.38,Middle East,Online Exclusive,Collector
+305,5,2023-08-05,1,34428.77,34428.77,Europe,Boutique Store,First-time Buyer
+1443,2,2023-08-05,1,14831.03,14831.03,Asia Pacific,Authorized Dealer,First-time Buyer
+827,1,2023-08-06,2,10731.67,21463.34,India,Boutique Store,Collector
+1176,5,2023-08-06,1,31589.62,31589.62,North America,Boutique Store,Investor
+99,2,2023-08-06,1,16168.9,16168.9,Europe,Boutique Store,Collector
+160,2,2023-08-08,1,15745.32,15745.32,Asia Pacific,Authorized Dealer,Gift Purchase
+1732,2,2023-08-09,1,14868.5,14868.5,Europe,Boutique Store,Gift Purchase
+907,5,2023-08-10,1,32714.45,32714.45,Middle East,Authorized Dealer,Investor
+1400,7,2023-08-10,1,30101.65,30101.65,North America,Authorized Dealer,Investor
+813,4,2023-08-10,1,42777.95,42777.95,Middle East,Boutique Store,First-time Buyer
+258,8,2023-08-11,1,34537.9,34537.9,India,Boutique Store,First-time Buyer
+556,5,2023-08-11,1,32742.14,32742.14,Europe,Online Exclusive,First-time Buyer
+949,5,2023-08-12,1,32193.04,32193.04,Asia Pacific,Boutique Store,Collector
+61,7,2023-08-12,1,28572.74,28572.74,Europe,Authorized Dealer,Gift Purchase
+1596,3,2023-08-12,1,13411.73,13411.73,North America,Boutique Store,First-time Buyer
+1348,8,2023-08-13,1,34660.85,34660.85,North America,Online Exclusive,Gift Purchase
+381,2,2023-08-13,1,15547.48,15547.48,India,Authorized Dealer,First-time Buyer
+321,11,2023-08-13,1,979372.94,979372.94,Middle East,Online Exclusive,Gift Purchase
+1778,10,2023-08-13,1,244859.79,244859.79,India,Boutique Store,Collector
+1458,8,2023-08-13,1,34737.72,34737.72,Asia Pacific,Boutique Store,Collector
+275,7,2023-08-14,1,28846.75,28846.75,Asia Pacific,Online Exclusive,First-time Buyer
+123,2,2023-08-14,2,16073.48,32146.96,Europe,Boutique Store,Collector
+122,2,2023-08-14,1,15458.63,15458.63,Middle East,Boutique Store,Collector
+1213,3,2023-08-14,1,12925.92,12925.92,Asia Pacific,Boutique Store,First-time Buyer
+969,8,2023-08-15,1,33267.19,33267.19,Europe,Authorized Dealer,First-time Buyer
+1435,8,2023-08-15,1,35128.29,35128.29,North America,Auction House,Collector
+704,1,2023-08-15,1,10428.89,10428.89,Asia Pacific,Online Exclusive,First-time Buyer
+1211,2,2023-08-15,1,15315.98,15315.98,Europe,Auction House,Investor
+641,8,2023-08-16,1,36698.45,36698.45,Europe,Online Exclusive,First-time Buyer
+1067,5,2023-08-16,1,33910.42,33910.42,Middle East,Authorized Dealer,Collector
+1520,8,2023-08-16,1,35546.84,35546.84,North America,Boutique Store,First-time Buyer
+1110,2,2023-08-17,1,15562.87,15562.87,Europe,Authorized Dealer,Collector
+1364,1,2023-08-18,1,10144.91,10144.91,Middle East,Boutique Store,Collector
+555,7,2023-08-18,1,28589.62,28589.62,India,Auction House,First-time Buyer
+419,2,2023-08-18,1,15181.54,15181.54,India,Authorized Dealer,Collector
+679,2,2023-08-18,1,15409.62,15409.62,Europe,Online Exclusive,First-time Buyer
+1627,6,2023-08-18,2,36837.99,73675.98,Europe,Boutique Store,Collector
+725,2,2023-08-19,1,15539.77,15539.77,Europe,Auction House,Collector
+198,2,2023-08-19,1,15560.9,15560.9,North America,Authorized Dealer,Collector
+1532,4,2023-08-19,1,43088.15,43088.15,Asia Pacific,Boutique Store,Investor
+1123,1,2023-08-19,1,10128.61,10128.61,North America,Boutique Store,Collector
+20,1,2023-08-19,1,10688.34,10688.34,Europe,Boutique Store,First-time Buyer
+318,4,2023-08-19,1,48139.23,48139.23,North America,Auction House,Investor
+1338,4,2023-08-20,1,43050.97,43050.97,Europe,Boutique Store,Investor
+1237,4,2023-08-20,1,48475.45,48475.45,North America,Authorized Dealer,First-time Buyer
+1608,1,2023-08-20,1,11215.1,11215.1,Asia Pacific,Boutique Store,Investor
+1109,2,2023-08-21,1,15039.85,15039.85,Asia Pacific,Authorized Dealer,First-time Buyer
+1272,10,2023-08-21,1,249764.98,249764.98,North America,Online Exclusive,Gift Purchase
+1204,5,2023-08-22,1,31148.73,31148.73,Europe,Online Exclusive,Investor
+1406,7,2023-08-22,1,27904.19,27904.19,Europe,Boutique Store,Gift Purchase
+448,7,2023-08-22,1,29857.12,29857.12,Asia Pacific,Online Exclusive,Investor
+369,2,2023-08-22,1,14875.63,14875.63,Europe,Boutique Store,Collector
+1767,4,2023-08-23,1,47252.33,47252.33,Asia Pacific,Auction House,Collector
+1738,4,2023-08-23,1,45924.17,45924.17,Middle East,Authorized Dealer,Investor
+942,11,2023-08-23,1,943582.48,943582.48,India,Boutique Store,Gift Purchase
+1322,1,2023-08-23,1,11017.77,11017.77,North America,Boutique Store,Collector
+100,7,2023-08-23,1,28854.02,28854.02,Europe,Authorized Dealer,Gift Purchase
+365,3,2023-08-24,1,12208.1,12208.1,Europe,Boutique Store,First-time Buyer
+156,1,2023-08-24,1,10547.91,10547.91,North America,Boutique Store,Investor
+642,4,2023-08-24,1,46180.07,46180.07,Europe,Authorized Dealer,First-time Buyer
+63,3,2023-08-24,1,12442.71,12442.71,Middle East,Online Exclusive,Gift Purchase
+1683,6,2023-08-24,1,38463.87,38463.87,India,Authorized Dealer,Gift Purchase
+1470,1,2023-08-24,1,10542.34,10542.34,Europe,Boutique Store,Gift Purchase
+107,5,2023-08-24,1,30948.72,30948.72,Asia Pacific,Boutique Store,First-time Buyer
+304,5,2023-08-26,1,31762.82,31762.82,Middle East,Auction House,Collector
+380,7,2023-08-26,1,27258.5,27258.5,North America,Authorized Dealer,Collector
+1337,5,2023-08-27,2,33876.96,67753.92,Europe,Authorized Dealer,Collector
+1225,2,2023-08-27,1,14351.97,14351.97,Asia Pacific,Boutique Store,Gift Purchase
+1508,3,2023-08-28,1,12341.61,12341.61,North America,Boutique Store,Gift Purchase
+1787,5,2023-08-29,1,31205.72,31205.72,Europe,Authorized Dealer,Collector
+135,8,2023-08-29,1,36279.96,36279.96,Asia Pacific,Boutique Store,Collector
+779,7,2023-08-29,1,29721.06,29721.06,Europe,Boutique Store,Gift Purchase
+1112,5,2023-08-29,1,33560.63,33560.63,Europe,Authorized Dealer,First-time Buyer
+548,4,2023-08-29,1,47543.76,47543.76,Europe,Boutique Store,Investor
+1285,7,2023-08-29,1,27368.6,27368.6,India,Boutique Store,First-time Buyer
+1541,7,2023-08-29,1,26790.2,26790.2,Middle East,Boutique Store,First-time Buyer
+867,2,2023-08-29,1,14586.06,14586.06,North America,Auction House,Investor
+1266,8,2023-08-30,1,35313.71,35313.71,Asia Pacific,Authorized Dealer,First-time Buyer
+1234,8,2023-08-30,1,35647.83,35647.83,Asia Pacific,Boutique Store,Collector
+1513,9,2023-08-30,1,223390.94,223390.94,India,Boutique Store,Gift Purchase
+296,3,2023-08-30,1,12071.45,12071.45,India,Boutique Store,First-time Buyer
+1588,8,2023-08-30,1,37782.11,37782.11,Europe,Authorized Dealer,Investor
+34,7,2023-08-30,1,27284.43,27284.43,Europe,Boutique Store,First-time Buyer
+1265,1,2023-08-31,1,10594.13,10594.13,Europe,Boutique Store,Collector
+1142,2,2023-08-31,1,16164.24,16164.24,North America,Online Exclusive,First-time Buyer
+988,1,2023-08-31,1,10577.26,10577.26,Asia Pacific,Authorized Dealer,Collector
+1127,8,2023-08-31,1,34491.67,34491.67,North America,Authorized Dealer,Collector
+1351,5,2023-08-31,1,31493.46,31493.46,India,Boutique Store,Collector
+1118,6,2023-08-31,1,39060.88,39060.88,India,Boutique Store,First-time Buyer
+1733,3,2023-08-31,1,13396.23,13396.23,Middle East,Authorized Dealer,First-time Buyer
+1439,4,2023-09-01,1,43667.25,43667.25,North America,Auction House,First-time Buyer
+1017,3,2023-09-02,1,12827.65,12827.65,India,Boutique Store,Collector
+1708,7,2023-09-03,1,29588.9,29588.9,Europe,Boutique Store,Collector
+896,2,2023-09-03,1,14636.87,14636.87,North America,Boutique Store,Collector
+231,5,2023-09-03,1,31423.38,31423.38,Middle East,Boutique Store,Investor
+1010,4,2023-09-04,1,43274.48,43274.48,India,Authorized Dealer,Gift Purchase
+17,7,2023-09-05,1,28468.78,28468.78,North America,Boutique Store,Gift Purchase
+481,2,2023-09-05,1,14728.65,14728.65,India,Authorized Dealer,Collector
+284,2,2023-09-05,1,15945.99,15945.99,Asia Pacific,Auction House,First-time Buyer
+359,7,2023-09-05,1,29014.02,29014.02,Asia Pacific,Authorized Dealer,Collector
+1747,3,2023-09-06,1,12009.4,12009.4,North America,Boutique Store,Investor
+1763,7,2023-09-06,1,29496.12,29496.12,Middle East,Boutique Store,Collector
+1028,5,2023-09-07,1,32456.16,32456.16,Europe,Authorized Dealer,First-time Buyer
+589,1,2023-09-07,1,10048.7,10048.7,North America,Online Exclusive,Investor
+3,1,2023-09-08,1,10922.35,10922.35,Europe,Auction House,Collector
+1202,3,2023-09-08,1,12235.21,12235.21,Middle East,Authorized Dealer,Collector
+74,7,2023-09-09,1,30094.93,30094.93,India,Boutique Store,Collector
+218,1,2023-09-10,1,11141.07,11141.07,Europe,Authorized Dealer,Gift Purchase
+1288,5,2023-09-10,1,32800.15,32800.15,Middle East,Authorized Dealer,Collector
+1483,4,2023-09-11,1,44824.72,44824.72,Asia Pacific,Boutique Store,Investor
+1158,2,2023-09-12,1,15044.61,15044.61,Asia Pacific,Boutique Store,Collector
+1089,3,2023-09-12,1,12054.42,12054.42,Asia Pacific,Auction House,Collector
+1073,6,2023-09-13,1,36729.12,36729.12,North America,Boutique Store,Collector
+1129,5,2023-09-13,1,30779.9,30779.9,North America,Auction House,Investor
+1346,3,2023-09-13,1,11897.87,11897.87,Middle East,Authorized Dealer,Collector
+630,3,2023-09-13,1,12044.35,12044.35,North America,Authorized Dealer,Collector
+735,7,2023-09-13,1,29640.76,29640.76,Europe,Boutique Store,Gift Purchase
+441,9,2023-09-15,1,230210.29,230210.29,North America,Boutique Store,First-time Buyer
+1605,3,2023-09-16,1,13252.2,13252.2,North America,Boutique Store,Collector
+76,6,2023-09-16,1,40154.09,40154.09,North America,Authorized Dealer,Gift Purchase
+756,3,2023-09-16,1,12614.88,12614.88,North America,Boutique Store,First-time Buyer
+1301,8,2023-09-16,1,36202.54,36202.54,Europe,Authorized Dealer,Investor
+1273,3,2023-09-17,1,13252.0,13252.0,Asia Pacific,Authorized Dealer,Collector
+1039,2,2023-09-17,1,14529.66,14529.66,North America,Boutique Store,First-time Buyer
+1181,3,2023-09-17,1,13220.87,13220.87,North America,Auction House,Collector
+1629,7,2023-09-17,1,27395.16,27395.16,Middle East,Authorized Dealer,First-time Buyer
+1334,1,2023-09-17,1,10736.92,10736.92,Europe,Boutique Store,Collector
+981,1,2023-09-18,1,10731.78,10731.78,India,Online Exclusive,First-time Buyer
+1082,3,2023-09-18,1,12507.76,12507.76,Middle East,Authorized Dealer,Collector
+1020,2,2023-09-18,1,16192.93,16192.93,North America,Boutique Store,Collector
+1626,4,2023-09-18,1,47933.89,47933.89,Europe,Authorized Dealer,Collector
+966,3,2023-09-18,1,12020.48,12020.48,Europe,Auction House,Collector
+608,7,2023-09-18,1,27078.88,27078.88,Asia Pacific,Authorized Dealer,Collector
+127,7,2023-09-19,1,27463.48,27463.48,Europe,Online Exclusive,First-time Buyer
+1093,2,2023-09-19,1,15164.6,15164.6,Europe,Boutique Store,First-time Buyer
+1666,8,2023-09-19,1,36951.92,36951.92,India,Boutique Store,Investor
+1426,7,2023-09-20,1,27403.95,27403.95,Asia Pacific,Online Exclusive,Gift Purchase
+553,1,2023-09-20,1,10541.85,10541.85,North America,Authorized Dealer,Gift Purchase
+691,10,2023-09-21,1,254522.34,254522.34,Europe,Online Exclusive,First-time Buyer
+1049,3,2023-09-21,1,12047.78,12047.78,North America,Auction House,Collector
+1059,10,2023-09-21,1,255591.48,255591.48,Europe,Boutique Store,Collector
+1668,6,2023-09-21,1,38545.8,38545.8,Middle East,Authorized Dealer,Collector
+1465,7,2023-09-21,1,27640.99,27640.99,Europe,Boutique Store,First-time Buyer
+721,2,2023-09-21,1,15230.37,15230.37,Middle East,Boutique Store,Collector
+1681,5,2023-09-22,1,32162.95,32162.95,Europe,Boutique Store,Investor
+228,8,2023-09-22,1,33656.74,33656.74,India,Boutique Store,First-time Buyer
+1484,5,2023-09-22,1,34455.6,34455.6,India,Authorized Dealer,Collector
+1149,2,2023-09-23,1,16060.01,16060.01,North America,Boutique Store,Gift Purchase
+1745,1,2023-09-24,1,10089.66,10089.66,Europe,Authorized Dealer,Gift Purchase
+1281,2,2023-09-25,1,14833.64,14833.64,North America,Boutique Store,Investor
+1572,7,2023-09-25,1,29321.92,29321.92,India,Authorized Dealer,Investor
+732,2,2023-09-26,1,14589.1,14589.1,Asia Pacific,Authorized Dealer,Investor
+1786,5,2023-09-26,1,33985.61,33985.61,North America,Authorized Dealer,Collector
+124,2,2023-09-26,1,14690.35,14690.35,Middle East,Boutique Store,Investor
+1491,2,2023-09-27,1,16145.79,16145.79,India,Authorized Dealer,Gift Purchase
+1029,7,2023-09-27,1,28930.95,28930.95,Europe,Auction House,Collector
+391,2,2023-09-29,1,15297.58,15297.58,Asia Pacific,Boutique Store,Collector
+1496,4,2023-09-30,1,42807.5,42807.5,North America,Authorized Dealer,First-time Buyer
+956,2,2023-09-30,1,15745.83,15745.83,India,Boutique Store,First-time Buyer
+181,8,2023-09-30,1,36163.99,36163.99,India,Authorized Dealer,First-time Buyer
+1415,5,2023-10-01,1,31615.11,31615.11,Asia Pacific,Boutique Store,First-time Buyer
+117,2,2023-10-02,1,15846.63,15846.63,Asia Pacific,Boutique Store,First-time Buyer
+740,2,2023-10-02,1,15820.7,15820.7,Europe,Authorized Dealer,Investor
+162,4,2023-10-02,1,48110.17,48110.17,Europe,Boutique Store,First-time Buyer
+1307,8,2023-10-03,1,37436.39,37436.39,Europe,Auction House,First-time Buyer
+233,1,2023-10-03,2,10458.69,20917.38,North America,Authorized Dealer,Investor
+30,1,2023-10-04,1,10352.17,10352.17,Middle East,Auction House,First-time Buyer
+1085,9,2023-10-05,1,234287.65,234287.65,North America,Boutique Store,Investor
+621,3,2023-10-05,1,12826.09,12826.09,North America,Auction House,First-time Buyer
+1144,1,2023-10-05,1,10961.13,10961.13,Europe,Boutique Store,First-time Buyer
+862,7,2023-10-07,1,28764.37,28764.37,India,Online Exclusive,First-time Buyer
+222,6,2023-10-07,1,37960.29,37960.29,Europe,Auction House,Investor
+6,10,2023-10-07,1,249391.44,249391.44,Asia Pacific,Online Exclusive,Collector
+432,5,2023-10-08,1,32294.38,32294.38,Asia Pacific,Online Exclusive,Investor
+204,7,2023-10-08,1,28777.64,28777.64,North America,Boutique Store,First-time Buyer
+778,2,2023-10-09,1,14622.2,14622.2,Asia Pacific,Boutique Store,First-time Buyer
+236,1,2023-10-09,1,10407.38,10407.38,Asia Pacific,Boutique Store,First-time Buyer
+384,5,2023-10-09,1,34077.55,34077.55,Europe,Boutique Store,First-time Buyer
+1699,10,2023-10-10,1,265070.48,265070.48,Europe,Boutique Store,Collector
+1486,9,2023-10-10,1,237511.47,237511.47,Europe,Online Exclusive,First-time Buyer
+703,8,2023-10-10,1,36751.32,36751.32,Asia Pacific,Authorized Dealer,First-time Buyer
+777,9,2023-10-10,1,212249.27,212249.27,North America,Authorized Dealer,First-time Buyer
+711,4,2023-10-10,1,46165.9,46165.9,Europe,Authorized Dealer,Collector
+1623,6,2023-10-11,1,36211.83,36211.83,Asia Pacific,Boutique Store,First-time Buyer
+979,1,2023-10-11,1,11170.07,11170.07,India,Authorized Dealer,First-time Buyer
+804,6,2023-10-12,1,40348.78,40348.78,North America,Authorized Dealer,Collector
+1432,2,2023-10-12,1,14457.63,14457.63,Asia Pacific,Authorized Dealer,Collector
+690,2,2023-10-13,1,15522.62,15522.62,Asia Pacific,Boutique Store,Collector
+1381,2,2023-10-13,1,14725.6,14725.6,North America,Authorized Dealer,Gift Purchase
+289,8,2023-10-13,1,36977.87,36977.87,Europe,Boutique Store,First-time Buyer
+1800,2,2023-10-14,1,15115.28,15115.28,North America,Online Exclusive,Investor
+654,2,2023-10-14,1,15933.51,15933.51,Europe,Boutique Store,First-time Buyer
+64,11,2023-10-14,1,993802.84,993802.84,India,Online Exclusive,Gift Purchase
+714,2,2023-10-14,1,14776.24,14776.24,India,Online Exclusive,Collector
+1502,3,2023-10-14,1,13490.67,13490.67,North America,Authorized Dealer,Gift Purchase
+653,1,2023-10-16,1,10700.38,10700.38,Middle East,Authorized Dealer,First-time Buyer
+790,4,2023-10-17,1,46851.16,46851.16,India,Authorized Dealer,Investor
+182,5,2023-10-17,1,31963.88,31963.88,North America,Boutique Store,First-time Buyer
+128,8,2023-10-17,1,36362.9,36362.9,Europe,Authorized Dealer,First-time Buyer
+760,4,2023-10-18,1,43489.74,43489.74,Europe,Online Exclusive,First-time Buyer
+213,7,2023-10-18,1,26802.67,26802.67,North America,Authorized Dealer,First-time Buyer
+834,2,2023-10-18,1,14857.25,14857.25,Asia Pacific,Authorized Dealer,Gift Purchase
+1340,7,2023-10-19,1,27896.64,27896.64,North America,Authorized Dealer,Investor
+1454,1,2023-10-19,1,10433.1,10433.1,North America,Authorized Dealer,Collector
+1783,4,2023-10-21,1,43850.51,43850.51,Middle East,Boutique Store,Investor
+941,1,2023-10-21,1,10122.5,10122.5,Middle East,Boutique Store,First-time Buyer
+277,5,2023-10-21,1,33358.08,33358.08,Europe,Authorized Dealer,Investor
+713,1,2023-10-22,1,10251.98,10251.98,Europe,Authorized Dealer,Collector
+367,1,2023-10-22,1,10805.38,10805.38,Europe,Boutique Store,Collector
+620,5,2023-10-23,1,31153.48,31153.48,North America,Online Exclusive,Gift Purchase
+1066,8,2023-10-23,1,33863.05,33863.05,Europe,Auction House,Collector
+303,6,2023-10-23,1,39058.82,39058.82,Asia Pacific,Authorized Dealer,Investor
+1092,5,2023-10-23,1,31602.44,31602.44,Asia Pacific,Boutique Store,Gift Purchase
+547,10,2023-10-23,1,257034.47,257034.47,Europe,Auction House,Gift Purchase
+796,4,2023-10-25,1,48003.57,48003.57,Europe,Boutique Store,Investor
+1103,2,2023-10-25,1,14706.88,14706.88,Asia Pacific,Authorized Dealer,Investor
+139,3,2023-10-25,1,13162.85,13162.85,Europe,Online Exclusive,First-time Buyer
+23,7,2023-10-26,1,28924.06,28924.06,India,Authorized Dealer,Gift Purchase
+90,8,2023-10-26,1,36919.59,36919.59,Europe,Authorized Dealer,Investor
+1404,7,2023-10-26,1,28421.48,28421.48,North America,Boutique Store,First-time Buyer
+467,1,2023-10-26,1,10099.48,10099.48,Europe,Boutique Store,First-time Buyer
+264,4,2023-10-26,1,45715.57,45715.57,North America,Boutique Store,Investor
+496,6,2023-10-27,1,41011.52,41011.52,Europe,Authorized Dealer,Collector
+879,4,2023-10-28,1,47902.96,47902.96,North America,Auction House,First-time Buyer
+446,8,2023-10-28,1,37571.4,37571.4,Middle East,Boutique Store,First-time Buyer
+1366,3,2023-10-29,1,13044.09,13044.09,North America,Boutique Store,Gift Purchase
+1734,10,2023-10-30,1,250281.71,250281.71,Middle East,Online Exclusive,First-time Buyer
+163,1,2023-10-30,1,10366.26,10366.26,Asia Pacific,Online Exclusive,First-time Buyer
+1616,5,2023-10-30,1,33136.25,33136.25,Middle East,Boutique Store,First-time Buyer
+1218,8,2023-10-30,1,35297.97,35297.97,Asia Pacific,Boutique Store,Investor
+554,1,2023-10-31,2,11123.72,22247.44,Europe,Authorized Dealer,First-time Buyer
+340,2,2023-10-31,1,15829.51,15829.51,Middle East,Boutique Store,Collector
+93,3,2023-10-31,1,12303.23,12303.23,Middle East,Boutique Store,First-time Buyer
+1081,3,2023-10-31,1,12022.31,12022.31,India,Authorized Dealer,First-time Buyer
+759,1,2023-10-31,1,11273.66,11273.66,North America,Online Exclusive,First-time Buyer
+51,1,2023-11-01,1,10028.28,10028.28,Asia Pacific,Boutique Store,Investor
+671,1,2023-11-01,1,11235.92,11235.92,Asia Pacific,Boutique Store,Gift Purchase
+992,1,2023-11-02,1,10092.52,10092.52,Middle East,Boutique Store,First-time Buyer
+678,1,2023-11-02,1,11217.0,11217.0,North America,Boutique Store,Investor
+111,9,2023-11-03,1,214320.11,214320.11,Europe,Boutique Store,Gift Purchase
+500,7,2023-11-03,1,26794.21,26794.21,Europe,Online Exclusive,Collector
+1320,7,2023-11-03,1,28880.32,28880.32,North America,Auction House,Collector
+88,2,2023-11-04,1,15219.92,15219.92,North America,Boutique Store,Collector
+1300,9,2023-11-04,1,212210.83,212210.83,Middle East,Authorized Dealer,Investor
+207,6,2023-11-05,1,39530.85,39530.85,India,Boutique Store,Collector
+537,8,2023-11-05,1,37289.86,37289.86,North America,Online Exclusive,First-time Buyer
+1068,7,2023-11-05,1,28109.61,28109.61,India,Boutique Store,Collector
+535,7,2023-11-05,1,29476.24,29476.24,Asia Pacific,Online Exclusive,Gift Purchase
+1636,3,2023-11-06,1,13414.64,13414.64,India,Authorized Dealer,Investor
+447,3,2023-11-07,1,13170.22,13170.22,Middle East,Authorized Dealer,Collector
+783,3,2023-11-08,1,12747.91,12747.91,Europe,Boutique Store,Collector
+1718,5,2023-11-08,1,33080.31,33080.31,Asia Pacific,Auction House,Investor
+1463,8,2023-11-09,1,37064.67,37064.67,North America,Online Exclusive,Collector
+810,1,2023-11-09,1,11123.89,11123.89,Europe,Online Exclusive,Gift Purchase
+510,4,2023-11-09,1,45662.69,45662.69,Europe,Boutique Store,Collector
+246,9,2023-11-09,1,232957.63,232957.63,North America,Boutique Store,Investor
+1649,2,2023-11-09,1,14423.37,14423.37,Middle East,Auction House,Investor
+853,4,2023-11-10,1,45960.03,45960.03,Europe,Online Exclusive,Investor
+215,5,2023-11-11,1,32470.22,32470.22,Middle East,Auction House,Collector
+843,8,2023-11-11,1,36602.59,36602.59,Asia Pacific,Authorized Dealer,Collector
+1172,2,2023-11-11,1,14636.9,14636.9,Europe,Authorized Dealer,Collector
+793,8,2023-11-12,1,33704.56,33704.56,Asia Pacific,Authorized Dealer,First-time Buyer
+708,8,2023-11-12,1,36330.45,36330.45,Middle East,Authorized Dealer,First-time Buyer
+1597,3,2023-11-12,1,13483.79,13483.79,Middle East,Boutique Store,Collector
+18,2,2023-11-12,1,15394.11,15394.11,North America,Online Exclusive,First-time Buyer
+479,8,2023-11-12,1,35294.47,35294.47,India,Online Exclusive,First-time Buyer
+958,3,2023-11-12,1,12918.55,12918.55,Middle East,Online Exclusive,Collector
+823,4,2023-11-13,1,43070.13,43070.13,North America,Authorized Dealer,First-time Buyer
+755,2,2023-11-14,1,15705.44,15705.44,India,Authorized Dealer,Collector
+828,9,2023-11-14,1,217286.45,217286.45,Europe,Boutique Store,Collector
+765,2,2023-11-14,1,15794.46,15794.46,Middle East,Authorized Dealer,First-time Buyer
+260,1,2023-11-14,2,10357.83,20715.66,Europe,Authorized Dealer,Investor
+1053,1,2023-11-14,1,10898.48,10898.48,India,Authorized Dealer,Investor
+904,2,2023-11-14,1,15237.85,15237.85,Europe,Boutique Store,First-time Buyer
+702,3,2023-11-15,1,12668.14,12668.14,Asia Pacific,Authorized Dealer,First-time Buyer
+327,3,2023-11-16,1,12922.23,12922.23,Asia Pacific,Authorized Dealer,Collector
+1196,11,2023-11-16,1,981700.26,981700.26,Europe,Online Exclusive,Investor
+1429,5,2023-11-17,1,34180.98,34180.98,North America,Authorized Dealer,First-time Buyer
+55,8,2023-11-19,1,35836.33,35836.33,Europe,Online Exclusive,Collector
+928,9,2023-11-19,1,222694.77,222694.77,Asia Pacific,Authorized Dealer,First-time Buyer
+905,11,2023-11-19,1,1015924.66,1015924.66,Europe,Boutique Store,First-time Buyer
+499,7,2023-11-19,1,27053.31,27053.31,Middle East,Authorized Dealer,Gift Purchase
+110,1,2023-11-19,1,10384.6,10384.6,Asia Pacific,Boutique Store,Collector
+421,2,2023-11-19,1,14767.5,14767.5,Europe,Boutique Store,Collector
+1628,5,2023-11-20,1,34535.39,34535.39,Europe,Boutique Store,First-time Buyer
+926,9,2023-11-20,1,215862.57,215862.57,Asia Pacific,Auction House,Collector
+839,1,2023-11-22,2,10308.27,20616.54,Europe,Online Exclusive,Gift Purchase
+747,10,2023-11-23,1,237595.73,237595.73,Asia Pacific,Auction House,Collector
+1586,8,2023-11-23,1,35199.55,35199.55,Asia Pacific,Authorized Dealer,Investor
+1798,7,2023-11-23,1,27119.11,27119.11,Europe,Boutique Store,Investor
+1124,2,2023-11-23,1,14988.47,14988.47,Asia Pacific,Online Exclusive,First-time Buyer
+1647,1,2023-11-24,1,10999.32,10999.32,Europe,Boutique Store,Collector
+94,3,2023-11-24,1,12452.27,12452.27,Europe,Online Exclusive,Investor
+521,9,2023-11-25,1,228662.75,228662.75,Europe,Online Exclusive,First-time Buyer
+409,3,2023-11-25,1,12769.39,12769.39,India,Online Exclusive,Investor
+549,9,2023-11-26,1,223126.81,223126.81,Europe,Boutique Store,Collector
+178,1,2023-11-28,1,10702.8,10702.8,India,Authorized Dealer,First-time Buyer
+1796,7,2023-11-28,1,26768.23,26768.23,Asia Pacific,Boutique Store,Investor
+1703,1,2023-11-28,1,10847.57,10847.57,Asia Pacific,Boutique Store,Gift Purchase
+709,2,2023-11-28,1,14433.6,14433.6,Europe,Auction House,First-time Buyer
+1566,8,2023-11-28,1,37219.98,37219.98,Middle East,Online Exclusive,Investor
+102,1,2023-11-29,1,11183.34,11183.34,Asia Pacific,Boutique Store,Collector
+426,5,2023-11-29,1,33760.67,33760.67,North America,Boutique Store,First-time Buyer
+1136,9,2023-11-29,1,232850.6,232850.6,Asia Pacific,Boutique Store,Collector
+1687,5,2023-11-29,1,30865.46,30865.46,North America,Authorized Dealer,Gift Purchase
+179,2,2023-11-29,1,15824.78,15824.78,Europe,Boutique Store,First-time Buyer
+545,2,2023-11-29,1,15977.55,15977.55,India,Boutique Store,Investor
+1152,3,2023-11-30,1,12522.52,12522.52,India,Auction House,Investor
+1316,2,2023-11-30,1,15594.72,15594.72,India,Authorized Dealer,Investor
+126,1,2023-11-30,1,11069.27,11069.27,Asia Pacific,Boutique Store,First-time Buyer
+910,7,2023-11-30,1,29928.91,29928.91,North America,Authorized Dealer,Collector
+680,6,2023-11-30,1,40578.59,40578.59,Middle East,Authorized Dealer,First-time Buyer
+70,3,2023-11-30,1,13275.53,13275.53,Asia Pacific,Authorized Dealer,Investor
+470,7,2023-12-01,1,27884.38,27884.38,India,Online Exclusive,Collector
+42,2,2023-12-02,1,16138.41,16138.41,Europe,Boutique Store,Collector
+971,1,2023-12-02,1,11333.22,11333.22,Middle East,Boutique Store,Collector
+665,3,2023-12-02,1,11966.15,11966.15,Europe,Auction House,Collector
+614,3,2023-12-03,1,12687.22,12687.22,Asia Pacific,Boutique Store,Collector
+1663,9,2023-12-03,1,231284.21,231284.21,Europe,Boutique Store,Collector
+1669,4,2023-12-04,1,43049.5,43049.5,Europe,Online Exclusive,First-time Buyer
+251,1,2023-12-04,1,10556.3,10556.3,Middle East,Boutique Store,Investor
+1312,1,2023-12-04,1,11104.62,11104.62,Middle East,Boutique Store,Collector
+1753,1,2023-12-06,1,9976.14,9976.14,India,Authorized Dealer,First-time Buyer
+572,8,2023-12-06,1,36196.01,36196.01,Asia Pacific,Boutique Store,Investor
+456,1,2023-12-07,1,10319.63,10319.63,India,Boutique Store,First-time Buyer
+1719,7,2023-12-07,1,28327.92,28327.92,North America,Authorized Dealer,Investor
+985,1,2023-12-08,1,10210.45,10210.45,Middle East,Boutique Store,Investor
+316,1,2023-12-08,1,11118.62,11118.62,Europe,Authorized Dealer,Investor
+744,4,2023-12-09,1,43329.18,43329.18,North America,Boutique Store,First-time Buyer
+108,1,2023-12-09,2,11238.32,22476.64,Europe,Boutique Store,Collector
+1125,6,2023-12-10,1,38935.42,38935.42,Asia Pacific,Boutique Store,Collector
+529,8,2023-12-10,1,33376.25,33376.25,Middle East,Online Exclusive,Collector
+1052,7,2023-12-10,1,28013.0,28013.0,Middle East,Authorized Dealer,Collector
+1691,8,2023-12-11,1,36900.65,36900.65,Middle East,Boutique Store,Collector
+580,4,2023-12-11,1,43274.98,43274.98,Middle East,Auction House,First-time Buyer
+1284,6,2023-12-11,1,38109.24,38109.24,Europe,Boutique Store,Collector
+1538,1,2023-12-12,1,10010.26,10010.26,North America,Boutique Store,Gift Purchase
+628,3,2023-12-12,1,12159.89,12159.89,North America,Online Exclusive,First-time Buyer
+1263,5,2023-12-12,1,31540.02,31540.02,Europe,Authorized Dealer,Collector
+1214,11,2023-12-12,1,971533.96,971533.96,Europe,Boutique Store,Collector
+821,4,2023-12-13,1,44354.12,44354.12,Europe,Boutique Store,Collector
+763,4,2023-12-14,1,45312.98,45312.98,Europe,Online Exclusive,Collector
+838,2,2023-12-14,1,15489.6,15489.6,India,Boutique Store,Collector
+1456,5,2023-12-15,2,33012.31,66024.62,Europe,Authorized Dealer,Investor
+56,8,2023-12-15,2,34415.46,68830.92,Europe,Boutique Store,First-time Buyer
+166,1,2023-12-15,1,10569.29,10569.29,India,Boutique Store,First-time Buyer
+1283,5,2023-12-15,1,34347.21,34347.21,Asia Pacific,Authorized Dealer,Collector
+317,8,2023-12-16,1,33406.64,33406.64,Europe,Boutique Store,Investor
+388,3,2023-12-16,1,12204.15,12204.15,Europe,Boutique Store,Investor
+562,2,2023-12-16,1,15198.65,15198.65,Middle East,Authorized Dealer,First-time Buyer
+1279,3,2023-12-17,1,12835.18,12835.18,Middle East,Boutique Store,Collector
+1709,3,2023-12-17,1,11879.44,11879.44,Middle East,Authorized Dealer,First-time Buyer
+1638,1,2023-12-18,1,10197.54,10197.54,Europe,Auction House,First-time Buyer
+1347,1,2023-12-19,1,10780.33,10780.33,North America,Boutique Store,First-time Buyer
+1716,9,2023-12-19,1,230993.62,230993.62,North America,Authorized Dealer,Investor
+1533,10,2023-12-19,1,255816.48,255816.48,Middle East,Boutique Store,First-time Buyer
+1499,1,2023-12-20,1,10780.46,10780.46,North America,Boutique Store,Gift Purchase
+247,2,2023-12-20,2,15353.28,30706.56,North America,Boutique Store,Investor
+1770,3,2023-12-21,1,11949.09,11949.09,Europe,Boutique Store,Collector
+870,1,2023-12-21,1,11078.12,11078.12,India,Authorized Dealer,First-time Buyer
+1182,8,2023-12-21,2,35264.88,70529.76,Europe,Boutique Store,Investor
+1545,3,2023-12-21,1,12694.89,12694.89,Europe,Online Exclusive,Collector
+1527,1,2023-12-22,1,11299.89,11299.89,North America,Boutique Store,Collector
+1693,7,2023-12-22,1,30155.12,30155.12,North America,Authorized Dealer,Gift Purchase
+1487,5,2023-12-22,1,31747.32,31747.32,India,Authorized Dealer,First-time Buyer
+1744,7,2023-12-23,1,27285.8,27285.8,North America,Authorized Dealer,Collector
+1001,8,2023-12-23,1,37761.16,37761.16,Europe,Authorized Dealer,Collector
+1754,8,2023-12-23,1,35839.42,35839.42,Middle East,Boutique Store,First-time Buyer
+1353,5,2023-12-23,1,34511.46,34511.46,Middle East,Boutique Store,Collector
+492,1,2023-12-23,1,11187.62,11187.62,India,Authorized Dealer,First-time Buyer
+1573,3,2023-12-24,1,13299.09,13299.09,Europe,Authorized Dealer,Collector
+1184,1,2023-12-24,1,11154.08,11154.08,North America,Online Exclusive,Collector
+427,8,2023-12-24,1,34799.2,34799.2,India,Boutique Store,First-time Buyer
+1296,1,2023-12-25,1,11268.18,11268.18,North America,Authorized Dealer,First-time Buyer
+613,3,2023-12-25,1,12574.1,12574.1,Europe,Boutique Store,First-time Buyer
+1232,3,2023-12-25,1,12811.16,12811.16,India,Boutique Store,Collector
+539,1,2023-12-25,1,10745.73,10745.73,Europe,Boutique Store,Gift Purchase
+726,6,2023-12-26,1,40324.96,40324.96,Asia Pacific,Boutique Store,First-time Buyer
+54,4,2023-12-26,1,45748.4,45748.4,Asia Pacific,Authorized Dealer,Collector
+174,2,2023-12-26,1,14682.88,14682.88,North America,Online Exclusive,Collector
+851,8,2023-12-26,1,33348.45,33348.45,Europe,Boutique Store,Investor
+1704,10,2023-12-27,1,242249.64,242249.64,India,Authorized Dealer,Investor
+1448,1,2023-12-27,1,11001.6,11001.6,North America,Authorized Dealer,First-time Buyer
+1571,2,2023-12-27,1,15670.52,15670.52,India,Boutique Store,Collector
+1516,1,2023-12-28,1,10041.62,10041.62,North America,Boutique Store,Collector
+622,7,2023-12-28,2,29196.81,58393.62,Europe,Boutique Store,Gift Purchase
+619,7,2023-12-28,1,29419.45,29419.45,Middle East,Online Exclusive,Collector
+984,2,2023-12-29,1,15837.44,15837.44,Middle East,Boutique Store,Collector
+931,1,2023-12-30,1,10024.64,10024.64,North America,Boutique Store,Collector
+1223,7,2023-12-30,1,29610.33,29610.33,Asia Pacific,Authorized Dealer,Gift Purchase
+1065,2,2023-12-31,1,15710.54,15710.54,Europe,Boutique Store,First-time Buyer
+1764,4,2023-12-31,1,44951.79,44951.79,India,Authorized Dealer,Investor
+1398,3,2024-01-01,1,12330.41,12330.41,Middle East,Online Exclusive,First-time Buyer
+445,6,2024-01-02,1,38077.86,38077.86,India,Boutique Store,Collector
+540,1,2024-01-02,1,11024.44,11024.44,Middle East,Auction House,Gift Purchase
+559,8,2024-01-03,1,34909.52,34909.52,Middle East,Boutique Store,First-time Buyer
+1390,11,2024-01-03,1,925760.64,925760.64,Asia Pacific,Authorized Dealer,Collector
+625,1,2024-01-05,1,10589.41,10589.41,Middle East,Boutique Store,Gift Purchase
+1167,5,2024-01-06,1,31559.74,31559.74,India,Authorized Dealer,Collector
+1584,5,2024-01-06,1,31188.54,31188.54,India,Online Exclusive,First-time Buyer
+798,1,2024-01-07,1,10302.79,10302.79,Europe,Boutique Store,First-time Buyer
+1318,5,2024-01-07,1,33947.23,33947.23,North America,Authorized Dealer,First-time Buyer
+672,3,2024-01-07,1,11961.82,11961.82,Middle East,Boutique Store,Collector
+1270,3,2024-01-07,1,12983.1,12983.1,North America,Auction House,Gift Purchase
+1321,4,2024-01-07,2,43483.43,86966.86,India,Authorized Dealer,Collector
+1328,3,2024-01-08,1,12910.77,12910.77,Europe,Authorized Dealer,Collector
+1280,8,2024-01-09,1,34942.08,34942.08,Middle East,Boutique Store,Investor
+930,3,2024-01-09,1,12481.04,12481.04,Asia Pacific,Authorized Dealer,Investor
+848,5,2024-01-09,1,32068.67,32068.67,Asia Pacific,Boutique Store,First-time Buyer
+379,1,2024-01-09,1,10534.19,10534.19,Asia Pacific,Authorized Dealer,First-time Buyer
+1490,3,2024-01-09,1,12732.58,12732.58,Europe,Boutique Store,First-time Buyer
+945,8,2024-01-09,1,34503.07,34503.07,Asia Pacific,Boutique Store,First-time Buyer
+285,2,2024-01-10,1,15786.49,15786.49,Europe,Boutique Store,Collector
+494,3,2024-01-11,1,12855.53,12855.53,Asia Pacific,Boutique Store,First-time Buyer
+1446,6,2024-01-11,1,40125.08,40125.08,North America,Authorized Dealer,Investor
+1731,1,2024-01-12,1,11322.09,11322.09,Europe,Boutique Store,Collector
+1673,7,2024-01-12,1,27797.67,27797.67,Middle East,Authorized Dealer,Gift Purchase
+252,4,2024-01-12,1,45187.4,45187.4,Asia Pacific,Online Exclusive,Gift Purchase
+375,8,2024-01-12,1,37639.31,37639.31,North America,Authorized Dealer,First-time Buyer
+970,1,2024-01-12,1,11321.95,11321.95,Europe,Boutique Store,Collector
+477,8,2024-01-12,1,33899.29,33899.29,North America,Online Exclusive,Collector
+1712,2,2024-01-12,1,15933.03,15933.03,Europe,Boutique Store,Collector
+158,1,2024-01-12,1,10304.7,10304.7,Middle East,Auction House,Collector
+689,9,2024-01-13,1,223327.39,223327.39,Middle East,Authorized Dealer,Investor
+1423,7,2024-01-14,1,26785.98,26785.98,North America,Boutique Store,First-time Buyer
+200,5,2024-01-14,1,32418.4,32418.4,Middle East,Boutique Store,Collector
+551,5,2024-01-15,2,32990.92,65981.84,North America,Boutique Store,Collector
+1314,7,2024-01-15,1,29391.34,29391.34,Middle East,Boutique Store,Collector
+1418,3,2024-01-15,1,12696.41,12696.41,India,Boutique Store,Gift Purchase
+394,4,2024-01-15,1,44510.89,44510.89,Middle East,Boutique Store,Collector
+847,8,2024-01-16,1,33664.06,33664.06,Europe,Boutique Store,Gift Purchase
+582,3,2024-01-16,1,12263.72,12263.72,Asia Pacific,Authorized Dealer,Collector
+1175,8,2024-01-16,1,35716.13,35716.13,Asia Pacific,Authorized Dealer,Investor
+1407,8,2024-01-18,1,35830.84,35830.84,Europe,Authorized Dealer,First-time Buyer
+312,1,2024-01-18,1,10053.93,10053.93,Asia Pacific,Boutique Store,First-time Buyer
+53,7,2024-01-18,1,29911.28,29911.28,Asia Pacific,Online Exclusive,Gift Purchase
+1391,9,2024-01-19,1,212078.47,212078.47,North America,Boutique Store,Collector
+1061,2,2024-01-19,1,14784.38,14784.38,India,Boutique Store,Gift Purchase
+141,2,2024-01-19,1,15143.33,15143.33,Europe,Auction House,First-time Buyer
+1452,1,2024-01-19,1,11085.29,11085.29,Asia Pacific,Authorized Dealer,Collector
+996,5,2024-01-20,1,30437.55,30437.55,India,Authorized Dealer,First-time Buyer
+1697,5,2024-01-21,1,32676.55,32676.55,Middle East,Authorized Dealer,Collector
+1277,7,2024-01-21,1,28189.21,28189.21,Asia Pacific,Authorized Dealer,Collector
+390,5,2024-01-22,1,33846.14,33846.14,North America,Authorized Dealer,Collector
+326,7,2024-01-22,1,27075.23,27075.23,Asia Pacific,Authorized Dealer,First-time Buyer
+1205,3,2024-01-22,1,12831.39,12831.39,Europe,Boutique Store,First-time Buyer
+1759,3,2024-01-23,1,12564.83,12564.83,North America,Auction House,First-time Buyer
+1076,5,2024-01-23,1,31644.11,31644.11,Middle East,Authorized Dealer,Collector
+869,1,2024-01-24,1,10277.11,10277.11,Europe,Online Exclusive,First-time Buyer
+269,8,2024-01-24,1,34005.28,34005.28,Middle East,Authorized Dealer,Investor
+80,9,2024-01-24,1,221078.17,221078.17,Europe,Boutique Store,Collector
+333,9,2024-01-25,1,236599.4,236599.4,North America,Authorized Dealer,Collector
+1444,3,2024-01-25,1,12634.16,12634.16,India,Boutique Store,First-time Buyer
+1096,2,2024-01-25,1,14709.71,14709.71,North America,Authorized Dealer,Investor
+844,5,2024-01-25,1,31876.57,31876.57,North America,Boutique Store,Collector
+884,7,2024-01-25,1,26643.71,26643.71,India,Boutique Store,Investor
+699,4,2024-01-26,1,44381.92,44381.92,Middle East,Authorized Dealer,Investor
+974,1,2024-01-26,1,10513.0,10513.0,Asia Pacific,Online Exclusive,First-time Buyer
+1130,6,2024-01-26,1,37819.25,37819.25,Middle East,Authorized Dealer,First-time Buyer
+609,4,2024-01-27,1,43353.42,43353.42,Asia Pacific,Authorized Dealer,Investor
+1727,1,2024-01-27,1,10801.11,10801.11,Europe,Boutique Store,Collector
+281,6,2024-01-27,1,37461.19,37461.19,Europe,Authorized Dealer,First-time Buyer
+366,1,2024-01-27,1,11143.8,11143.8,Asia Pacific,Authorized Dealer,Collector
+894,3,2024-01-27,2,13092.23,26184.46,North America,Boutique Store,Gift Purchase
+1790,7,2024-01-27,1,29361.87,29361.87,North America,Authorized Dealer,First-time Buyer
+677,5,2024-01-28,1,34250.94,34250.94,India,Boutique Store,Collector
+607,9,2024-01-28,1,235299.07,235299.07,North America,Boutique Store,First-time Buyer
+1543,6,2024-01-29,1,40281.26,40281.26,Middle East,Authorized Dealer,First-time Buyer
+1518,5,2024-01-30,1,32628.1,32628.1,Europe,Auction House,Investor
+272,6,2024-01-30,1,39371.78,39371.78,Middle East,Authorized Dealer,Collector
+1355,5,2024-01-30,1,32134.24,32134.24,North America,Boutique Store,First-time Buyer
+596,8,2024-01-30,1,34517.95,34517.95,Europe,Authorized Dealer,First-time Buyer
+300,3,2024-01-30,1,12387.66,12387.66,Europe,Boutique Store,Gift Purchase
+1261,4,2024-01-31,1,43090.63,43090.63,North America,Authorized Dealer,First-time Buyer
+1134,10,2024-01-31,1,242743.92,242743.92,Europe,Boutique Store,Investor
+1585,1,2024-02-01,2,10408.94,20817.88,Middle East,Boutique Store,First-time Buyer
+254,7,2024-02-01,1,28917.85,28917.85,Middle East,Auction House,Collector
+336,2,2024-02-02,1,14899.4,14899.4,Europe,Boutique Store,First-time Buyer
+1434,3,2024-02-03,1,13220.01,13220.01,Europe,Authorized Dealer,First-time Buyer
+263,2,2024-02-03,1,14294.49,14294.49,India,Authorized Dealer,First-time Buyer
+1352,3,2024-02-03,1,13399.88,13399.88,Asia Pacific,Authorized Dealer,Collector
+1227,3,2024-02-03,1,12084.78,12084.78,Middle East,Online Exclusive,Collector
+1583,8,2024-02-05,1,37294.01,37294.01,India,Online Exclusive,First-time Buyer
+784,2,2024-02-05,1,15618.71,15618.71,Asia Pacific,Authorized Dealer,Collector
+301,7,2024-02-06,2,29695.77,59391.54,India,Boutique Store,Collector
+440,5,2024-02-06,1,31187.02,31187.02,Asia Pacific,Boutique Store,First-time Buyer
+934,2,2024-02-07,1,14360.39,14360.39,Asia Pacific,Boutique Store,Collector
+1257,2,2024-02-07,1,15454.85,15454.85,India,Auction House,Investor
+1782,5,2024-02-07,1,33041.07,33041.07,Europe,Boutique Store,First-time Buyer
+60,11,2024-02-07,1,979794.85,979794.85,Middle East,Authorized Dealer,First-time Buyer
+256,5,2024-02-08,1,32661.75,32661.75,North America,Boutique Store,Collector
+83,4,2024-02-08,1,44497.41,44497.41,Europe,Authorized Dealer,First-time Buyer
+1317,1,2024-02-08,1,11207.2,11207.2,Europe,Online Exclusive,First-time Buyer
+1230,3,2024-02-08,1,12588.93,12588.93,Asia Pacific,Auction House,Gift Purchase
+624,7,2024-02-09,1,28040.9,28040.9,Asia Pacific,Auction House,Gift Purchase
+643,4,2024-02-09,1,43593.54,43593.54,Middle East,Authorized Dealer,Collector
+1162,8,2024-02-10,1,33253.4,33253.4,Middle East,Authorized Dealer,Investor
+36,9,2024-02-10,1,223256.29,223256.29,Asia Pacific,Authorized Dealer,Collector
+1692,3,2024-02-11,1,13446.08,13446.08,Europe,Online Exclusive,Investor
+842,1,2024-02-11,1,10091.31,10091.31,North America,Boutique Store,Investor
+270,2,2024-02-11,1,14924.9,14924.9,North America,Online Exclusive,Investor
+1410,8,2024-02-12,1,35616.43,35616.43,India,Boutique Store,First-time Buyer
+1630,3,2024-02-12,1,12814.88,12814.88,North America,Online Exclusive,First-time Buyer
+1341,3,2024-02-13,1,12216.07,12216.07,India,Boutique Store,First-time Buyer
+1739,1,2024-02-13,1,10415.9,10415.9,Europe,Boutique Store,Collector
+1634,4,2024-02-13,2,43324.23,86648.46,Europe,Boutique Store,Collector
+1492,8,2024-02-13,1,37645.07,37645.07,Asia Pacific,Boutique Store,First-time Buyer
+900,1,2024-02-13,1,10701.58,10701.58,Middle East,Authorized Dealer,Gift Purchase
+656,7,2024-02-13,1,28380.36,28380.36,Europe,Boutique Store,Collector
+165,2,2024-02-13,1,15367.3,15367.3,Asia Pacific,Authorized Dealer,Investor
+1648,4,2024-02-14,1,43347.84,43347.84,Europe,Boutique Store,First-time Buyer
+175,4,2024-02-14,1,48460.04,48460.04,Asia Pacific,Boutique Store,Collector
+733,10,2024-02-15,1,256981.05,256981.05,Europe,Boutique Store,Gift Purchase
+323,3,2024-02-15,1,12065.16,12065.16,Asia Pacific,Authorized Dealer,Collector
+239,2,2024-02-16,1,14274.08,14274.08,North America,Boutique Store,Investor
+1742,2,2024-02-16,1,14936.14,14936.14,Europe,Boutique Store,Gift Purchase
+1274,5,2024-02-16,1,31044.42,31044.42,India,Auction House,Collector
+638,2,2024-02-16,1,15967.23,15967.23,India,Boutique Store,First-time Buyer
+364,6,2024-02-16,1,38854.15,38854.15,Middle East,Authorized Dealer,Collector
+893,2,2024-02-17,1,15215.9,15215.9,Europe,Authorized Dealer,Gift Purchase
+1183,1,2024-02-17,1,10484.15,10484.15,North America,Authorized Dealer,Gift Purchase
+1058,7,2024-02-17,1,27867.12,27867.12,North America,Boutique Store,Investor
+455,5,2024-02-18,1,31924.17,31924.17,Europe,Boutique Store,First-time Buyer
+1336,1,2024-02-18,1,10410.94,10410.94,Middle East,Authorized Dealer,Gift Purchase
+1614,3,2024-02-18,1,12989.98,12989.98,North America,Authorized Dealer,First-time Buyer
+393,7,2024-02-19,1,29291.62,29291.62,Europe,Auction House,Gift Purchase
+151,7,2024-02-19,1,27543.06,27543.06,India,Auction House,First-time Buyer
+1179,3,2024-02-20,1,12926.21,12926.21,Europe,Boutique Store,Collector
+616,3,2024-02-20,1,12652.09,12652.09,Middle East,Online Exclusive,Collector
+1083,8,2024-02-20,1,34394.02,34394.02,Asia Pacific,Authorized Dealer,First-time Buyer
+1335,6,2024-02-20,1,40161.78,40161.78,North America,Authorized Dealer,Investor
+1519,5,2024-02-21,1,32585.3,32585.3,India,Boutique Store,Investor
+154,1,2024-02-21,1,11331.6,11331.6,Asia Pacific,Authorized Dealer,Collector
+1615,10,2024-02-21,1,247531.79,247531.79,North America,Boutique Store,Collector
+196,2,2024-02-22,1,16122.58,16122.58,Asia Pacific,Authorized Dealer,Investor
+1678,7,2024-02-22,1,28074.07,28074.07,Asia Pacific,Online Exclusive,First-time Buyer
+1522,7,2024-02-22,1,26907.42,26907.42,India,Authorized Dealer,First-time Buyer
+132,2,2024-02-22,1,16052.21,16052.21,Middle East,Authorized Dealer,First-time Buyer
+1379,2,2024-02-22,1,14521.14,14521.14,Europe,Authorized Dealer,Collector
+824,2,2024-02-23,1,14864.35,14864.35,Middle East,Authorized Dealer,Investor
+515,6,2024-02-23,1,40370.64,40370.64,Middle East,Authorized Dealer,First-time Buyer
+1069,1,2024-02-23,1,10172.52,10172.52,Middle East,Boutique Store,First-time Buyer
+846,3,2024-02-24,2,12344.72,24689.44,Asia Pacific,Online Exclusive,Collector
+1750,6,2024-02-25,1,39203.19,39203.19,Asia Pacific,Authorized Dealer,Collector
+503,7,2024-02-26,1,26705.66,26705.66,Europe,Authorized Dealer,Investor
+84,11,2024-02-26,1,1012721.67,1012721.67,North America,Boutique Store,Gift Purchase
+1505,2,2024-02-26,1,14427.46,14427.46,Asia Pacific,Auction House,First-time Buyer
+1269,8,2024-02-26,1,37444.11,37444.11,Middle East,Authorized Dealer,First-time Buyer
+597,2,2024-02-27,1,15294.13,15294.13,North America,Online Exclusive,First-time Buyer
+1512,7,2024-02-27,1,28104.58,28104.58,India,Authorized Dealer,Gift Purchase
+1258,1,2024-02-29,1,10226.23,10226.23,Europe,Boutique Store,Investor
+940,5,2024-02-29,1,34246.83,34246.83,Asia Pacific,Boutique Store,Investor
+1431,5,2024-03-01,1,33627.98,33627.98,Europe,Authorized Dealer,Collector
+81,1,2024-03-01,2,11298.06,22596.12,Middle East,Authorized Dealer,Investor
+694,8,2024-03-02,1,34038.17,34038.17,Middle East,Online Exclusive,Investor
+396,5,2024-03-02,1,30724.76,30724.76,Asia Pacific,Boutique Store,Gift Purchase
+695,2,2024-03-03,1,15488.78,15488.78,North America,Boutique Store,Investor
+1233,1,2024-03-03,1,10317.67,10317.67,Asia Pacific,Authorized Dealer,First-time Buyer
+1331,7,2024-03-04,1,28144.41,28144.41,North America,Boutique Store,First-time Buyer
+1474,1,2024-03-04,1,10428.35,10428.35,Europe,Boutique Store,Gift Purchase
+1235,8,2024-03-04,2,35442.68,70885.36,Asia Pacific,Authorized Dealer,Collector
+1462,3,2024-03-04,1,12013.36,12013.36,North America,Auction House,Investor
+1420,8,2024-03-04,1,34854.05,34854.05,Europe,Boutique Store,Investor
+1632,8,2024-03-05,1,33619.04,33619.04,Europe,Boutique Store,Collector
+191,7,2024-03-05,1,28812.95,28812.95,Europe,Authorized Dealer,Collector
+41,1,2024-03-05,1,10743.46,10743.46,Middle East,Authorized Dealer,First-time Buyer
+1343,3,2024-03-05,1,11875.46,11875.46,Asia Pacific,Boutique Store,Investor
+1642,7,2024-03-06,1,27564.53,27564.53,India,Boutique Store,First-time Buyer
+767,3,2024-03-07,1,12413.4,12413.4,Asia Pacific,Authorized Dealer,Collector
+1413,8,2024-03-08,1,34809.21,34809.21,Asia Pacific,Auction House,First-time Buyer
+377,8,2024-03-08,1,37343.04,37343.04,North America,Boutique Store,Collector
+1164,10,2024-03-08,1,260829.32,260829.32,Asia Pacific,Authorized Dealer,Gift Purchase
+1788,3,2024-03-08,1,12158.93,12158.93,Middle East,Authorized Dealer,Investor
+871,7,2024-03-09,1,26944.36,26944.36,Middle East,Online Exclusive,Collector
+1216,5,2024-03-09,1,32996.59,32996.59,Europe,Auction House,First-time Buyer
+482,1,2024-03-10,1,10314.06,10314.06,Asia Pacific,Boutique Store,Investor
+696,5,2024-03-10,1,32389.61,32389.61,North America,Boutique Store,Gift Purchase
+646,6,2024-03-11,1,38019.46,38019.46,North America,Boutique Store,Investor
+874,8,2024-03-11,1,34014.59,34014.59,North America,Boutique Store,Investor
+501,6,2024-03-11,1,39852.66,39852.66,North America,Boutique Store,Investor
+857,4,2024-03-12,1,43988.72,43988.72,India,Boutique Store,Gift Purchase
+1013,3,2024-03-12,1,13084.83,13084.83,Europe,Authorized Dealer,First-time Buyer
+1644,2,2024-03-12,1,16140.31,16140.31,Europe,Auction House,Collector
+22,1,2024-03-12,1,10725.36,10725.36,North America,Boutique Store,Collector
+585,3,2024-03-13,1,12153.55,12153.55,Middle East,Boutique Store,Collector
+664,3,2024-03-14,1,12154.41,12154.41,Europe,Boutique Store,Investor
+720,4,2024-03-14,1,43947.47,43947.47,India,Authorized Dealer,Collector
+516,1,2024-03-14,1,10756.71,10756.71,Europe,Authorized Dealer,First-time Buyer
+1737,4,2024-03-14,1,47160.11,47160.11,Middle East,Auction House,Investor
+1372,2,2024-03-14,1,14952.43,14952.43,Europe,Boutique Store,Investor
+75,10,2024-03-14,1,242782.35,242782.35,North America,Online Exclusive,Gift Purchase
+466,8,2024-03-15,1,33770.58,33770.58,Europe,Authorized Dealer,Collector
+1765,1,2024-03-15,1,11112.64,11112.64,Europe,Auction House,Investor
+880,1,2024-03-15,1,10871.69,10871.69,Middle East,Boutique Store,Investor
+1757,4,2024-03-15,1,46328.39,46328.39,Asia Pacific,Auction House,Investor
+435,1,2024-03-15,1,10414.58,10414.58,North America,Auction House,Collector
+1650,6,2024-03-15,1,38995.76,38995.76,North America,Auction House,Gift Purchase
+24,4,2024-03-16,1,46065.58,46065.58,North America,Boutique Store,Collector
+1371,2,2024-03-16,1,14522.9,14522.9,North America,Boutique Store,First-time Buyer
+59,2,2024-03-17,1,15385.11,15385.11,India,Auction House,Collector
+1721,3,2024-03-17,1,11936.49,11936.49,North America,Boutique Store,Collector
+522,9,2024-03-18,1,233969.39,233969.39,Europe,Boutique Store,Investor
+1730,1,2024-03-18,1,10877.49,10877.49,Europe,Online Exclusive,Investor
+1748,3,2024-03-19,1,12625.66,12625.66,Asia Pacific,Boutique Store,Collector
+48,3,2024-03-20,1,12052.6,12052.6,Asia Pacific,Online Exclusive,Collector
+1412,3,2024-03-21,1,12844.64,12844.64,North America,Authorized Dealer,Collector
+498,2,2024-03-21,1,14438.14,14438.14,Europe,Boutique Store,Investor
+863,1,2024-03-21,1,10830.64,10830.64,Europe,Authorized Dealer,Gift Purchase
+1469,8,2024-03-22,1,33316.88,33316.88,North America,Authorized Dealer,First-time Buyer
+1785,4,2024-03-22,1,45448.95,45448.95,Middle East,Authorized Dealer,Gift Purchase
+1537,5,2024-03-23,1,32791.57,32791.57,Asia Pacific,Boutique Store,Collector
+1560,7,2024-03-23,1,30010.92,30010.92,North America,Boutique Store,Collector
+1685,8,2024-03-23,1,35201.8,35201.8,North America,Boutique Store,Investor
+1655,2,2024-03-24,1,15476.27,15476.27,India,Online Exclusive,Investor
+1313,8,2024-03-24,1,35730.64,35730.64,North America,Authorized Dealer,Gift Purchase
+1177,7,2024-03-24,1,28998.06,28998.06,Europe,Authorized Dealer,First-time Buyer
+1698,7,2024-03-24,1,28058.8,28058.8,Middle East,Boutique Store,Collector
+528,1,2024-03-25,1,10370.85,10370.85,Europe,Boutique Store,First-time Buyer
+913,3,2024-03-25,1,12016.03,12016.03,North America,Authorized Dealer,First-time Buyer
+1147,9,2024-03-25,1,219316.5,219316.5,Middle East,Auction House,First-time Buyer
+32,7,2024-03-26,1,29191.86,29191.86,Asia Pacific,Boutique Store,Gift Purchase
+730,7,2024-03-26,1,27490.92,27490.92,North America,Authorized Dealer,Gift Purchase
+806,5,2024-03-26,1,31735.47,31735.47,Europe,Authorized Dealer,Collector
+946,1,2024-03-26,1,10724.42,10724.42,North America,Online Exclusive,First-time Buyer
+343,3,2024-03-26,1,12111.53,12111.53,Middle East,Authorized Dealer,Collector
+832,3,2024-03-28,1,12296.48,12296.48,North America,Boutique Store,Investor
+1643,7,2024-03-29,1,29933.76,29933.76,Europe,Authorized Dealer,Investor
+330,2,2024-03-29,1,14469.67,14469.67,Asia Pacific,Boutique Store,Gift Purchase
+1289,6,2024-03-29,1,39477.41,39477.41,North America,Boutique Store,Investor
+1736,7,2024-03-29,1,28672.28,28672.28,Middle East,Authorized Dealer,First-time Buyer
+1536,2,2024-03-30,1,15323.35,15323.35,India,Authorized Dealer,Collector
+542,3,2024-03-30,1,12498.5,12498.5,Asia Pacific,Boutique Store,Collector
+212,3,2024-03-30,1,12508.86,12508.86,Europe,Boutique Store,Collector
+1701,2,2024-03-31,1,15947.02,15947.02,Europe,Authorized Dealer,Collector
+171,2,2024-03-31,1,15109.04,15109.04,Asia Pacific,Boutique Store,Collector
+1025,2,2024-03-31,1,14334.33,14334.33,Europe,Authorized Dealer,First-time Buyer
+1291,3,2024-03-31,1,12767.07,12767.07,Middle East,Boutique Store,Collector
+468,6,2024-04-02,1,36798.44,36798.44,India,Boutique Store,First-time Buyer
+442,3,2024-04-02,1,12373.38,12373.38,India,Authorized Dealer,Investor
+588,2,2024-04-02,1,15754.59,15754.59,Asia Pacific,Auction House,Gift Purchase
+474,8,2024-04-03,1,34126.94,34126.94,India,Boutique Store,First-time Buyer
+40,8,2024-04-03,1,34356.78,34356.78,Asia Pacific,Auction House,First-time Buyer
+72,7,2024-04-03,1,27935.52,27935.52,North America,Boutique Store,Collector
+1789,5,2024-04-04,1,31596.44,31596.44,India,Boutique Store,First-time Buyer
+1427,3,2024-04-04,1,12679.88,12679.88,Asia Pacific,Auction House,Investor
+1459,1,2024-04-04,1,10390.32,10390.32,Europe,Auction House,Investor
+1174,9,2024-04-04,1,236873.34,236873.34,Europe,Online Exclusive,Investor
+657,2,2024-04-05,1,14737.73,14737.73,Middle East,Boutique Store,Collector
+1374,1,2024-04-06,1,11178.38,11178.38,Europe,Authorized Dealer,Collector
+195,1,2024-04-06,1,10093.25,10093.25,Europe,Auction House,First-time Buyer
+361,10,2024-04-06,1,244602.12,244602.12,Europe,Boutique Store,First-time Buyer
+436,7,2024-04-07,1,27955.46,27955.46,Europe,Boutique Store,First-time Buyer
+1598,3,2024-04-07,1,13329.95,13329.95,India,Authorized Dealer,Investor
+1005,7,2024-04-07,1,29440.27,29440.27,India,Boutique Store,Investor
+1646,6,2024-04-08,1,37376.19,37376.19,North America,Authorized Dealer,First-time Buyer
+1369,1,2024-04-09,1,10660.21,10660.21,India,Authorized Dealer,First-time Buyer
+662,1,2024-04-09,1,10780.7,10780.7,North America,Online Exclusive,Investor
+960,7,2024-04-10,1,29473.05,29473.05,Europe,Authorized Dealer,Collector
+1607,7,2024-04-10,1,27309.36,27309.36,Asia Pacific,Authorized Dealer,Collector
+358,1,2024-04-10,1,10684.33,10684.33,Asia Pacific,Boutique Store,Collector
+927,10,2024-04-10,1,264425.65,264425.65,Europe,Authorized Dealer,Investor
+587,7,2024-04-11,1,28626.32,28626.32,Europe,Boutique Store,Collector
+1449,7,2024-04-11,1,27498.68,27498.68,Europe,Boutique Store,First-time Buyer
+1428,6,2024-04-11,1,38221.1,38221.1,Europe,Boutique Store,Collector
+1137,4,2024-04-12,1,43673.49,43673.49,Europe,Authorized Dealer,First-time Buyer
+661,3,2024-04-12,1,12381.6,12381.6,Middle East,Boutique Store,Investor
+1253,5,2024-04-13,1,33041.79,33041.79,Middle East,Authorized Dealer,First-time Buyer
+858,4,2024-04-14,1,46131.04,46131.04,North America,Online Exclusive,Collector
+1582,1,2024-04-14,1,10246.51,10246.51,Europe,Online Exclusive,First-time Buyer
+1735,7,2024-04-15,1,27580.28,27580.28,North America,Boutique Store,Investor
+840,2,2024-04-15,1,15670.31,15670.31,Europe,Online Exclusive,Gift Purchase
+771,5,2024-04-15,1,31066.94,31066.94,North America,Auction House,First-time Buyer
+1146,7,2024-04-16,1,27771.65,27771.65,India,Boutique Store,Collector
+278,6,2024-04-16,1,39529.87,39529.87,Middle East,Boutique Store,Gift Purchase
+994,1,2024-04-16,1,10170.17,10170.17,Asia Pacific,Boutique Store,Collector
+1003,3,2024-04-16,1,12724.11,12724.11,North America,Boutique Store,Collector
+1268,2,2024-04-17,1,15631.13,15631.13,Europe,Authorized Dealer,Collector
+888,9,2024-04-17,1,231721.32,231721.32,Asia Pacific,Boutique Store,Gift Purchase
+405,6,2024-04-17,1,37102.1,37102.1,North America,Boutique Store,Investor
+187,3,2024-04-18,1,13133.94,13133.94,North America,Boutique Store,Gift Purchase
+1592,2,2024-04-18,1,15931.48,15931.48,Middle East,Boutique Store,Gift Purchase
+11,5,2024-04-19,2,34331.4,68662.8,Asia Pacific,Authorized Dealer,Investor
+571,3,2024-04-19,1,12617.81,12617.81,North America,Auction House,Collector
+1217,2,2024-04-20,1,14817.99,14817.99,Europe,Auction House,Collector
+16,1,2024-04-20,1,10652.06,10652.06,Europe,Authorized Dealer,Gift Purchase
+1050,3,2024-04-21,1,12422.79,12422.79,Middle East,Authorized Dealer,First-time Buyer
+563,2,2024-04-21,1,14698.73,14698.73,Asia Pacific,Online Exclusive,First-time Buyer
+951,10,2024-04-21,1,247154.38,247154.38,Middle East,Boutique Store,Collector
+1362,2,2024-04-22,1,15604.9,15604.9,Europe,Auction House,Collector
+1226,8,2024-04-22,1,34618.83,34618.83,Europe,Authorized Dealer,First-time Buyer
+136,4,2024-04-23,1,44690.15,44690.15,Asia Pacific,Boutique Store,Collector
+443,3,2024-04-23,1,12555.73,12555.73,Asia Pacific,Boutique Store,Gift Purchase
+1254,1,2024-04-23,1,10077.07,10077.07,Middle East,Boutique Store,Collector
+987,8,2024-04-24,1,33470.97,33470.97,North America,Auction House,Gift Purchase
+423,5,2024-04-24,1,34438.34,34438.34,Asia Pacific,Authorized Dealer,Collector
+530,1,2024-04-24,1,10306.23,10306.23,Europe,Boutique Store,Collector
+411,3,2024-04-24,1,12609.13,12609.13,Europe,Boutique Store,First-time Buyer
+351,4,2024-04-25,2,47853.24,95706.48,Asia Pacific,Boutique Store,First-time Buyer
+1229,2,2024-04-26,1,14726.13,14726.13,North America,Boutique Store,First-time Buyer
+274,2,2024-04-26,1,15634.93,15634.93,India,Authorized Dealer,First-time Buyer
+473,5,2024-04-26,1,32757.36,32757.36,North America,Authorized Dealer,Collector
+1036,5,2024-04-28,1,33891.33,33891.33,Europe,Online Exclusive,Investor
+1611,7,2024-04-28,1,28513.09,28513.09,Asia Pacific,Boutique Store,Collector
+876,1,2024-04-29,1,10457.43,10457.43,Middle East,Boutique Store,Investor
+599,2,2024-04-29,1,14365.98,14365.98,India,Auction House,Collector
+464,9,2024-04-30,1,214183.64,214183.64,Asia Pacific,Authorized Dealer,Collector
+475,7,2024-04-30,1,29563.23,29563.23,Europe,Authorized Dealer,Collector
+506,1,2024-05-01,1,10125.24,10125.24,Middle East,Authorized Dealer,Gift Purchase
+120,3,2024-05-01,1,12461.54,12461.54,Asia Pacific,Authorized Dealer,Investor
+1260,4,2024-05-01,1,44094.46,44094.46,Asia Pacific,Boutique Store,Collector
+1705,5,2024-05-01,1,30997.48,30997.48,India,Boutique Store,First-time Buyer
+121,5,2024-05-01,1,32776.24,32776.24,India,Authorized Dealer,Investor
+579,3,2024-05-01,1,12287.96,12287.96,Middle East,Boutique Store,Gift Purchase
+350,1,2024-05-02,1,9985.4,9985.4,Europe,Boutique Store,Collector
+14,4,2024-05-03,1,45662.83,45662.83,North America,Online Exclusive,Collector
+780,3,2024-05-03,1,11956.7,11956.7,Asia Pacific,Boutique Store,Gift Purchase
+567,2,2024-05-03,1,15280.49,15280.49,Asia Pacific,Boutique Store,Collector
+1157,5,2024-05-03,1,30658.41,30658.41,Asia Pacific,Boutique Store,Collector
+595,6,2024-05-04,1,38317.86,38317.86,Asia Pacific,Boutique Store,Gift Purchase
+1553,1,2024-05-04,1,10535.12,10535.12,Europe,Boutique Store,Collector
+342,10,2024-05-05,1,265871.43,265871.43,North America,Online Exclusive,Collector
+1246,6,2024-05-05,1,40740.59,40740.59,Europe,Auction House,Collector
+1587,1,2024-05-06,1,10516.93,10516.93,Middle East,Authorized Dealer,First-time Buyer
+932,2,2024-05-06,1,15935.92,15935.92,Asia Pacific,Auction House,First-time Buyer
+1191,2,2024-05-08,1,14709.2,14709.2,Asia Pacific,Boutique Store,Gift Purchase
+1101,6,2024-05-09,1,39540.75,39540.75,Middle East,Boutique Store,Collector
+1060,6,2024-05-09,1,40885.4,40885.4,North America,Online Exclusive,First-time Buyer
+1514,8,2024-05-09,1,37576.01,37576.01,Asia Pacific,Boutique Store,Collector
+1197,7,2024-05-09,1,29660.83,29660.83,Europe,Boutique Store,Investor
+66,1,2024-05-09,1,10345.21,10345.21,Europe,Authorized Dealer,Gift Purchase
+43,8,2024-05-09,1,37056.48,37056.48,Europe,Auction House,Collector
+1475,1,2024-05-11,1,10618.51,10618.51,Europe,Auction House,Collector
+368,2,2024-05-11,1,14548.63,14548.63,Middle East,Boutique Store,Gift Purchase
+210,6,2024-05-12,1,36447.91,36447.91,Europe,Auction House,Gift Purchase
+21,11,2024-05-12,1,926895.31,926895.31,Europe,Authorized Dealer,Investor
+1569,2,2024-05-12,1,15047.92,15047.92,India,Auction House,Collector
+1380,2,2024-05-12,1,14466.38,14466.38,North America,Auction House,Gift Purchase
+1554,7,2024-05-12,1,28258.76,28258.76,Middle East,Online Exclusive,Collector
+143,8,2024-05-13,2,34094.5,68189.0,Middle East,Boutique Store,First-time Buyer
+736,8,2024-05-14,1,33791.96,33791.96,Middle East,Boutique Store,Collector
+1247,3,2024-05-14,1,13081.78,13081.78,Middle East,Authorized Dealer,Investor
+1761,8,2024-05-15,1,37075.9,37075.9,Middle East,Boutique Store,Collector
+1660,8,2024-05-16,1,35596.38,35596.38,Europe,Authorized Dealer,Collector
+962,3,2024-05-16,1,12303.33,12303.33,Asia Pacific,Boutique Store,Collector
+1055,3,2024-05-16,1,13084.54,13084.54,Europe,Authorized Dealer,First-time Buyer
+576,4,2024-05-16,1,47787.92,47787.92,Asia Pacific,Authorized Dealer,First-time Buyer
+1523,1,2024-05-17,1,10271.23,10271.23,Asia Pacific,Boutique Store,Collector
+92,1,2024-05-17,1,11284.05,11284.05,North America,Boutique Store,Collector
+883,2,2024-05-18,1,15710.9,15710.9,North America,Boutique Store,First-time Buyer
+444,1,2024-05-18,1,10238.95,10238.95,India,Boutique Store,Collector
+1662,7,2024-05-18,1,28760.08,28760.08,Middle East,Auction House,First-time Buyer
+332,2,2024-05-18,1,14877.81,14877.81,Europe,Boutique Store,First-time Buyer
+1389,1,2024-05-20,1,10935.75,10935.75,Europe,Boutique Store,Investor
+1539,1,2024-05-21,1,10268.07,10268.07,Middle East,Online Exclusive,Collector
+311,5,2024-05-22,1,33463.34,33463.34,India,Authorized Dealer,Collector
+424,1,2024-05-22,1,10855.29,10855.29,Asia Pacific,Boutique Store,First-time Buyer
+1725,1,2024-05-22,1,10382.85,10382.85,Europe,Authorized Dealer,Collector
+681,1,2024-05-23,1,10300.49,10300.49,India,Auction House,Gift Purchase
+1302,3,2024-05-23,1,12601.31,12601.31,Asia Pacific,Authorized Dealer,First-time Buyer
+490,11,2024-05-24,1,980188.12,980188.12,North America,Authorized Dealer,First-time Buyer
+914,2,2024-05-24,1,15545.66,15545.66,Europe,Boutique Store,Collector
+741,1,2024-05-24,1,10179.03,10179.03,Europe,Boutique Store,First-time Buyer
+265,3,2024-05-25,1,12238.72,12238.72,Middle East,Boutique Store,First-time Buyer
+1032,2,2024-05-25,1,14618.63,14618.63,North America,Online Exclusive,Collector
+1464,1,2024-05-25,1,10015.28,10015.28,North America,Boutique Store,Investor
+632,4,2024-05-25,1,43742.18,43742.18,Europe,Authorized Dealer,Gift Purchase
+387,5,2024-05-25,1,30922.21,30922.21,Asia Pacific,Boutique Store,Gift Purchase
+523,3,2024-05-25,1,12901.28,12901.28,North America,Auction House,Investor
+130,8,2024-05-26,1,33458.06,33458.06,Europe,Authorized Dealer,Collector
+855,1,2024-05-28,1,10428.12,10428.12,Asia Pacific,Authorized Dealer,Collector
+877,9,2024-05-29,1,215385.23,215385.23,Asia Pacific,Boutique Store,First-time Buyer
+1445,1,2024-05-29,1,10110.43,10110.43,Asia Pacific,Authorized Dealer,First-time Buyer
+993,6,2024-05-30,1,38442.55,38442.55,Europe,Boutique Store,Gift Purchase
+957,9,2024-05-30,1,233046.6,233046.6,Middle East,Auction House,First-time Buyer
+353,2,2024-05-30,1,15118.84,15118.84,Europe,Boutique Store,Collector
+603,6,2024-05-30,1,37646.69,37646.69,North America,Boutique Store,First-time Buyer
+1528,5,2024-05-30,2,32883.72,65767.44,Middle East,Boutique Store,First-time Buyer
+1414,4,2024-05-30,1,45717.21,45717.21,India,Boutique Store,Investor
+415,3,2024-05-30,1,11941.39,11941.39,Europe,Auction House,First-time Buyer
+45,11,2024-05-31,1,908306.13,908306.13,India,Boutique Store,First-time Buyer
+1141,2,2024-06-01,1,15744.89,15744.89,Europe,Authorized Dealer,Collector
+487,8,2024-06-01,2,37077.21,74154.42,Asia Pacific,Boutique Store,Investor
+1457,6,2024-06-01,1,36252.98,36252.98,Asia Pacific,Online Exclusive,Investor
+739,7,2024-06-01,2,29998.28,59996.56,Asia Pacific,Authorized Dealer,Investor
+734,7,2024-06-01,1,29993.19,29993.19,Asia Pacific,Auction House,First-time Buyer
+1723,9,2024-06-02,1,218159.94,218159.94,Europe,Authorized Dealer,Investor
+1236,4,2024-06-02,1,45698.88,45698.88,North America,Boutique Store,Gift Purchase
+1245,1,2024-06-02,2,10347.11,20694.22,North America,Online Exclusive,Collector
+1493,1,2024-06-02,1,10411.04,10411.04,Middle East,Boutique Store,Investor
+688,5,2024-06-03,1,31762.95,31762.95,North America,Boutique Store,First-time Buyer
+938,7,2024-06-03,1,29825.2,29825.2,Asia Pacific,Boutique Store,Gift Purchase
+1641,7,2024-06-03,1,29917.46,29917.46,Middle East,Boutique Store,First-time Buyer
+29,7,2024-06-04,2,30160.11,60320.22,North America,Authorized Dealer,Investor
+968,7,2024-06-05,1,27713.69,27713.69,India,Online Exclusive,Collector
+1292,6,2024-06-06,1,39912.67,39912.67,Europe,Authorized Dealer,Investor
+1088,5,2024-06-06,1,34061.84,34061.84,Asia Pacific,Boutique Store,Investor
+144,3,2024-06-06,1,13081.56,13081.56,Europe,Boutique Store,First-time Buyer
+1684,3,2024-06-07,1,12285.44,12285.44,Europe,Boutique Store,Collector
+1382,10,2024-06-07,1,242643.07,242643.07,Europe,Boutique Store,Gift Purchase
+929,1,2024-06-07,1,10060.05,10060.05,North America,Boutique Store,Collector
+82,9,2024-06-08,1,225741.67,225741.67,Middle East,Auction House,First-time Buyer
+964,6,2024-06-09,1,40212.7,40212.7,Asia Pacific,Authorized Dealer,Collector
+937,6,2024-06-09,1,40287.1,40287.1,Europe,Boutique Store,Collector
+645,7,2024-06-10,1,29614.16,29614.16,Europe,Authorized Dealer,Investor
+1193,2,2024-06-10,1,15535.64,15535.64,Asia Pacific,Online Exclusive,Investor
+687,7,2024-06-10,1,28461.27,28461.27,Europe,Boutique Store,Collector
+533,7,2024-06-11,1,27311.84,27311.84,India,Authorized Dealer,First-time Buyer
+1072,5,2024-06-11,1,32610.84,32610.84,Europe,Authorized Dealer,First-time Buyer
+293,4,2024-06-12,1,43499.34,43499.34,Europe,Authorized Dealer,Investor
+287,6,2024-06-12,1,40471.55,40471.55,North America,Boutique Store,First-time Buyer
+534,3,2024-06-12,1,11990.04,11990.04,Middle East,Online Exclusive,First-time Buyer
+223,1,2024-06-12,1,10352.57,10352.57,Asia Pacific,Authorized Dealer,Investor
+1397,2,2024-06-13,1,15361.84,15361.84,Asia Pacific,Online Exclusive,Investor
+972,2,2024-06-13,1,14518.9,14518.9,Middle East,Boutique Store,First-time Buyer
+378,3,2024-06-13,1,12923.7,12923.7,Europe,Online Exclusive,Collector
+237,4,2024-06-14,2,43863.89,87727.78,India,Authorized Dealer,Collector
+157,3,2024-06-15,1,12711.79,12711.79,India,Online Exclusive,Collector
+451,3,2024-06-16,1,12759.55,12759.55,Middle East,Boutique Store,Gift Purchase
+651,2,2024-06-16,1,16163.22,16163.22,India,Authorized Dealer,First-time Buyer
+792,3,2024-06-17,1,12391.66,12391.66,Europe,Authorized Dealer,Collector
+1267,8,2024-06-18,1,36781.0,36781.0,India,Boutique Store,Collector
+1593,5,2024-06-18,1,30693.94,30693.94,North America,Boutique Store,Investor
+791,5,2024-06-19,1,30922.05,30922.05,North America,Boutique Store,Collector
+297,4,2024-06-19,1,44402.04,44402.04,Asia Pacific,Boutique Store,First-time Buyer
+349,7,2024-06-19,1,26702.89,26702.89,Middle East,Boutique Store,Gift Purchase
+27,5,2024-06-20,1,30526.63,30526.63,Asia Pacific,Boutique Store,First-time Buyer
+707,1,2024-06-20,1,11159.41,11159.41,Europe,Authorized Dealer,Collector
+1,1,2024-06-21,1,11310.27,11310.27,Europe,Boutique Store,Collector
+1048,3,2024-06-22,1,12741.54,12741.54,North America,Online Exclusive,Collector
+1437,8,2024-06-22,1,36065.52,36065.52,Asia Pacific,Auction House,Collector
+150,3,2024-06-22,1,11979.48,11979.48,North America,Authorized Dealer,First-time Buyer
+1559,9,2024-06-22,1,213676.47,213676.47,Asia Pacific,Authorized Dealer,First-time Buyer
+116,1,2024-06-22,1,10066.11,10066.11,North America,Authorized Dealer,Collector
+103,1,2024-06-22,1,10834.01,10834.01,North America,Boutique Store,Gift Purchase
+1659,2,2024-06-23,1,14276.16,14276.16,India,Boutique Store,First-time Buyer
+1108,4,2024-06-24,1,48409.93,48409.93,Asia Pacific,Authorized Dealer,Investor
+685,2,2024-06-24,1,16035.69,16035.69,Europe,Authorized Dealer,First-time Buyer
+1038,7,2024-06-26,1,27833.43,27833.43,Asia Pacific,Authorized Dealer,First-time Buyer
+1056,3,2024-06-26,1,13198.15,13198.15,Europe,Boutique Store,First-time Buyer
+715,6,2024-06-27,1,40148.67,40148.67,Middle East,Online Exclusive,Investor
+1212,7,2024-06-27,1,26802.46,26802.46,Middle East,Boutique Store,First-time Buyer
+885,8,2024-06-27,1,36051.14,36051.14,Middle East,Authorized Dealer,Collector
+1041,1,2024-06-28,1,10989.07,10989.07,India,Boutique Store,First-time Buyer
+35,1,2024-06-29,1,10878.42,10878.42,North America,Boutique Store,Investor
+1168,3,2024-06-30,1,12774.03,12774.03,Middle East,Online Exclusive,First-time Buyer
+866,5,2024-06-30,1,33716.88,33716.88,India,Online Exclusive,First-time Buyer
+118,7,2024-07-01,1,28081.94,28081.94,Europe,Boutique Store,Collector
+906,1,2024-07-02,1,10102.2,10102.2,Europe,Online Exclusive,Collector
+25,1,2024-07-02,1,9989.44,9989.44,Asia Pacific,Auction House,First-time Buyer
+1064,1,2024-07-03,1,10790.13,10790.13,Middle East,Authorized Dealer,Investor
+998,1,2024-07-04,1,10971.03,10971.03,Asia Pacific,Authorized Dealer,Investor
+1251,1,2024-07-05,2,10895.03,21790.06,Europe,Boutique Store,First-time Buyer
+950,3,2024-07-05,1,12969.32,12969.32,Asia Pacific,Auction House,First-time Buyer
+782,3,2024-07-05,1,12244.11,12244.11,Europe,Boutique Store,Investor
+190,3,2024-07-06,1,11910.16,11910.16,Europe,Authorized Dealer,Collector
+637,1,2024-07-07,1,10644.66,10644.66,Asia Pacific,Boutique Store,Collector
+238,9,2024-07-07,1,231827.11,231827.11,India,Boutique Store,First-time Buyer
+1022,2,2024-07-07,1,14341.77,14341.77,India,Online Exclusive,First-time Buyer
+2,1,2024-07-08,1,10657.34,10657.34,Asia Pacific,Online Exclusive,First-time Buyer
+1567,2,2024-07-09,1,14381.12,14381.12,Europe,Auction House,Gift Purchase
+1326,9,2024-07-09,1,214047.83,214047.83,Middle East,Boutique Store,Collector
+1689,3,2024-07-10,1,12556.17,12556.17,Asia Pacific,Authorized Dealer,Gift Purchase
+1054,2,2024-07-10,2,15531.48,31062.96,Europe,Boutique Store,Gift Purchase
+1107,1,2024-07-12,1,10633.92,10633.92,Middle East,Online Exclusive,First-time Buyer
+819,3,2024-07-12,1,12365.2,12365.2,Europe,Online Exclusive,Collector
+1665,2,2024-07-12,1,14699.35,14699.35,North America,Online Exclusive,First-time Buyer
+1148,6,2024-07-12,1,36595.96,36595.96,North America,Authorized Dealer,Gift Purchase
+668,1,2024-07-13,1,10314.66,10314.66,North America,Boutique Store,Gift Purchase
+1026,9,2024-07-13,1,214969.46,214969.46,Middle East,Online Exclusive,Investor
+1694,7,2024-07-13,1,29287.48,29287.48,Europe,Boutique Store,First-time Buyer
+583,1,2024-07-13,1,10390.29,10390.29,India,Online Exclusive,First-time Buyer
+1325,5,2024-07-13,1,31168.58,31168.58,Middle East,Auction House,Collector
+471,9,2024-07-14,1,237148.94,237148.94,Middle East,Auction House,Investor
+808,5,2024-07-14,1,33828.03,33828.03,Asia Pacific,Boutique Store,First-time Buyer
+990,2,2024-07-15,2,14442.72,28885.44,Asia Pacific,Boutique Store,Gift Purchase
+46,1,2024-07-15,1,11215.69,11215.69,Europe,Authorized Dealer,Collector
+1228,7,2024-07-15,1,27328.98,27328.98,Europe,Authorized Dealer,Collector
+104,8,2024-07-15,1,34994.55,34994.55,Europe,Authorized Dealer,Investor
+561,1,2024-07-16,1,10859.95,10859.95,North America,Authorized Dealer,Collector
+1677,6,2024-07-16,1,38109.34,38109.34,Europe,Authorized Dealer,Gift Purchase
+1728,8,2024-07-17,1,33739.85,33739.85,North America,Authorized Dealer,Collector
+1680,3,2024-07-17,1,11986.64,11986.64,Asia Pacific,Online Exclusive,Investor
+724,3,2024-07-18,1,12348.7,12348.7,Asia Pacific,Authorized Dealer,Gift Purchase
+764,9,2024-07-20,1,233466.26,233466.26,North America,Boutique Store,Investor
+943,6,2024-07-20,1,37313.94,37313.94,North America,Authorized Dealer,Collector
+786,5,2024-07-20,1,33901.3,33901.3,Europe,Boutique Store,First-time Buyer
+745,3,2024-07-20,1,12522.52,12522.52,Europe,Boutique Store,First-time Buyer
+170,1,2024-07-21,1,10790.07,10790.07,Europe,Auction House,Collector
+1185,2,2024-07-23,1,16001.17,16001.17,Europe,Auction House,First-time Buyer
+1411,3,2024-07-23,1,13211.2,13211.2,Asia Pacific,Boutique Store,Collector
+757,3,2024-07-23,1,12866.83,12866.83,Europe,Boutique Store,Investor
+1299,10,2024-07-24,1,266440.61,266440.61,Middle East,Boutique Store,Collector
+1447,5,2024-07-24,1,33294.58,33294.58,Europe,Boutique Store,Gift Purchase
+1613,1,2024-07-24,1,11300.54,11300.54,Middle East,Authorized Dealer,Collector
+1504,7,2024-07-24,1,29643.44,29643.44,North America,Online Exclusive,Collector
+815,5,2024-07-25,1,31663.81,31663.81,North America,Authorized Dealer,Investor
+1354,8,2024-07-25,1,36907.27,36907.27,India,Auction House,Investor
+1222,9,2024-07-25,1,233975.88,233975.88,Asia Pacific,Authorized Dealer,Investor
+1255,4,2024-07-26,1,45552.94,45552.94,Middle East,Authorized Dealer,Investor
+1602,1,2024-07-26,1,10802.91,10802.91,India,Boutique Store,First-time Buyer
+684,6,2024-07-26,1,40396.83,40396.83,India,Auction House,Collector
+176,3,2024-07-26,1,12356.13,12356.13,Europe,Auction House,First-time Buyer
+28,3,2024-07-27,1,12932.0,12932.0,Middle East,Authorized Dealer,First-time Buyer
+1282,8,2024-07-27,2,34924.98,69849.96,Asia Pacific,Authorized Dealer,Collector
+785,1,2024-07-27,1,10517.96,10517.96,Europe,Authorized Dealer,Investor
+1373,3,2024-07-28,1,12912.23,12912.23,Asia Pacific,Boutique Store,Investor
+1344,1,2024-07-28,1,11253.08,11253.08,North America,Authorized Dealer,Collector
+1795,7,2024-07-28,1,28053.96,28053.96,Europe,Authorized Dealer,Collector
+581,2,2024-07-28,1,15129.85,15129.85,Europe,Boutique Store,Collector
+693,7,2024-07-28,1,28366.3,28366.3,Asia Pacific,Authorized Dealer,First-time Buyer
+1635,1,2024-07-28,1,11220.89,11220.89,Middle East,Authorized Dealer,Collector
+1581,4,2024-07-28,1,48017.91,48017.91,Middle East,Online Exclusive,First-time Buyer
+169,8,2024-07-29,2,33324.35,66648.7,North America,Authorized Dealer,First-time Buyer
+290,5,2024-07-29,1,33876.65,33876.65,Europe,Authorized Dealer,First-time Buyer
+1009,7,2024-07-29,1,28534.73,28534.73,India,Boutique Store,Investor
+1494,1,2024-07-30,1,10060.71,10060.71,Middle East,Authorized Dealer,Collector
+541,7,2024-07-30,1,28215.88,28215.88,North America,Boutique Store,First-time Buyer
+873,3,2024-07-31,1,12409.38,12409.38,Middle East,Boutique Store,Investor
+67,5,2024-07-31,1,31932.37,31932.37,Asia Pacific,Boutique Store,Collector
+1091,10,2024-08-01,1,245280.04,245280.04,North America,Boutique Store,Collector
+1293,6,2024-08-01,1,38731.38,38731.38,North America,Boutique Store,Investor
+96,5,2024-08-01,1,33575.89,33575.89,North America,Boutique Store,Collector
+294,4,2024-08-02,1,48046.13,48046.13,North America,Boutique Store,Collector
+292,3,2024-08-02,1,11973.86,11973.86,Europe,Authorized Dealer,Collector
+801,7,2024-08-02,1,29893.08,29893.08,Asia Pacific,Auction House,First-time Buyer
+1200,8,2024-08-03,1,34786.79,34786.79,Europe,Authorized Dealer,Gift Purchase
+795,4,2024-08-03,1,46897.71,46897.71,Europe,Boutique Store,Collector
+1349,3,2024-08-03,1,12044.25,12044.25,Europe,Authorized Dealer,Investor
+1122,4,2024-08-04,1,46426.62,46426.62,Asia Pacific,Online Exclusive,Investor
+1604,4,2024-08-04,1,44296.33,44296.33,Middle East,Boutique Store,Collector
+1367,7,2024-08-04,1,28962.21,28962.21,India,Boutique Store,Investor
+1534,3,2024-08-05,2,12887.33,25774.66,North America,Authorized Dealer,First-time Buyer
+320,5,2024-08-05,1,32325.08,32325.08,Asia Pacific,Boutique Store,First-time Buyer
+1542,1,2024-08-05,1,10572.31,10572.31,Asia Pacific,Authorized Dealer,Investor
+881,8,2024-08-06,1,35084.99,35084.99,Europe,Boutique Store,Investor
+1766,8,2024-08-06,1,36345.04,36345.04,Asia Pacific,Boutique Store,Collector
+1661,3,2024-08-06,1,13081.31,13081.31,Europe,Auction House,Investor
+973,7,2024-08-06,1,28827.56,28827.56,Middle East,Online Exclusive,First-time Buyer
+1580,1,2024-08-06,1,11328.14,11328.14,Europe,Online Exclusive,First-time Buyer
+1403,3,2024-08-07,2,13248.94,26497.88,North America,Boutique Store,Collector
+1100,8,2024-08-07,1,37442.52,37442.52,India,Boutique Store,Gift Purchase
+1363,2,2024-08-07,1,14732.11,14732.11,Asia Pacific,Auction House,First-time Buyer
+977,3,2024-08-09,1,12025.03,12025.03,Middle East,Boutique Store,Investor
+167,9,2024-08-09,1,221075.48,221075.48,Middle East,Authorized Dealer,Gift Purchase
+586,1,2024-08-09,1,11264.14,11264.14,North America,Auction House,Investor
+575,8,2024-08-10,1,34046.69,34046.69,Europe,Authorized Dealer,Collector
+1578,1,2024-08-10,1,10176.04,10176.04,Asia Pacific,Authorized Dealer,Investor
+193,5,2024-08-11,1,34504.43,34504.43,Europe,Boutique Store,Collector
+1154,1,2024-08-11,1,11217.91,11217.91,Europe,Authorized Dealer,Collector
+1044,3,2024-08-11,1,12067.04,12067.04,Europe,Online Exclusive,Collector
+87,1,2024-08-12,1,10882.66,10882.66,Asia Pacific,Boutique Store,Investor
+1079,3,2024-08-13,1,13290.5,13290.5,Middle East,Auction House,Gift Purchase
+706,7,2024-08-13,1,29923.3,29923.3,Middle East,Boutique Store,First-time Buyer
+812,1,2024-08-13,1,10169.24,10169.24,North America,Auction House,First-time Buyer
+1166,3,2024-08-14,1,13087.03,13087.03,North America,Boutique Store,Collector
+244,1,2024-08-14,1,10104.0,10104.0,India,Authorized Dealer,First-time Buyer
+1550,2,2024-08-14,1,15771.34,15771.34,North America,Boutique Store,First-time Buyer
+133,2,2024-08-14,1,15360.14,15360.14,North America,Authorized Dealer,Gift Purchase
+1579,2,2024-08-15,1,16033.56,16033.56,Asia Pacific,Authorized Dealer,First-time Buyer
+428,1,2024-08-15,1,11053.29,11053.29,Middle East,Online Exclusive,Collector
+480,7,2024-08-15,1,27773.46,27773.46,Europe,Auction House,Gift Purchase
+997,1,2024-08-15,1,10291.95,10291.95,Europe,Boutique Store,First-time Buyer
+180,1,2024-08-16,1,11082.59,11082.59,India,Boutique Store,First-time Buyer
+1791,1,2024-08-16,1,10956.02,10956.02,Europe,Boutique Store,First-time Buyer
+1248,11,2024-08-16,1,1019399.89,1019399.89,Asia Pacific,Boutique Store,Collector
+1224,1,2024-08-17,1,11211.71,11211.71,India,Boutique Store,First-time Buyer
+750,7,2024-08-17,1,29544.73,29544.73,Asia Pacific,Boutique Store,Investor
+527,1,2024-08-17,1,10696.23,10696.23,Europe,Online Exclusive,First-time Buyer
+963,7,2024-08-18,1,26600.59,26600.59,India,Authorized Dealer,First-time Buyer
+980,1,2024-08-18,1,10775.49,10775.49,Europe,Authorized Dealer,Collector
+1221,5,2024-08-19,1,32307.52,32307.52,Europe,Online Exclusive,Collector
+799,5,2024-08-19,1,32177.9,32177.9,Europe,Authorized Dealer,Collector
+617,2,2024-08-20,1,15720.78,15720.78,North America,Online Exclusive,Collector
+335,5,2024-08-20,1,33421.67,33421.67,North America,Online Exclusive,Gift Purchase
+1695,8,2024-08-20,1,36192.51,36192.51,Asia Pacific,Authorized Dealer,First-time Buyer
+565,3,2024-08-21,1,12758.67,12758.67,Asia Pacific,Authorized Dealer,Collector
+1090,5,2024-08-21,1,33710.26,33710.26,Asia Pacific,Boutique Store,First-time Buyer
+627,4,2024-08-22,1,43234.61,43234.61,Europe,Boutique Store,Collector
+101,1,2024-08-22,1,10153.19,10153.19,North America,Boutique Store,Collector
+532,9,2024-08-23,1,211219.45,211219.45,Middle East,Authorized Dealer,First-time Buyer
+1511,1,2024-08-23,1,11167.12,11167.12,North America,Online Exclusive,Investor
+1308,2,2024-08-23,1,14543.16,14543.16,Middle East,Authorized Dealer,First-time Buyer
+1653,1,2024-08-26,1,10333.24,10333.24,Middle East,Authorized Dealer,Collector
+1151,1,2024-08-27,1,10655.28,10655.28,Europe,Boutique Store,Collector
+261,8,2024-08-27,1,35896.72,35896.72,India,Authorized Dealer,Collector
+184,8,2024-08-28,1,34468.58,34468.58,India,Boutique Store,First-time Buyer
+1625,8,2024-08-28,1,36198.32,36198.32,India,Authorized Dealer,Collector
+1165,1,2024-08-28,1,10411.99,10411.99,North America,Authorized Dealer,Investor
+861,8,2024-08-28,1,37235.69,37235.69,Europe,Boutique Store,First-time Buyer
+33,10,2024-08-28,1,246035.17,246035.17,Middle East,Boutique Store,Collector
+1342,7,2024-08-28,1,29800.36,29800.36,North America,Online Exclusive,First-time Buyer
+1357,2,2024-08-29,1,14828.23,14828.23,Asia Pacific,Authorized Dealer,Collector
+1478,4,2024-08-30,1,46837.21,46837.21,India,Boutique Store,Gift Purchase
+183,1,2024-08-30,1,10085.05,10085.05,Europe,Authorized Dealer,Collector
+194,3,2024-08-31,1,13066.48,13066.48,Middle East,Online Exclusive,Collector
+91,9,2024-08-31,1,232231.86,232231.86,Europe,Boutique Store,Investor
+634,2,2024-08-31,2,14977.38,29954.76,Europe,Authorized Dealer,First-time Buyer
+626,6,2024-09-01,1,36866.9,36866.9,Europe,Online Exclusive,Collector
+504,1,2024-09-01,1,10029.93,10029.93,Asia Pacific,Boutique Store,Gift Purchase
+850,6,2024-09-01,2,40322.68,80645.36,North America,Boutique Store,Collector
+1565,5,2024-09-02,1,32271.62,32271.62,Middle East,Online Exclusive,First-time Buyer
+965,1,2024-09-02,1,10598.29,10598.29,India,Authorized Dealer,Gift Purchase
+1707,5,2024-09-03,1,32028.77,32028.77,India,Authorized Dealer,Gift Purchase
+242,5,2024-09-03,1,31015.17,31015.17,North America,Online Exclusive,Collector
+401,1,2024-09-03,1,10889.96,10889.96,Middle East,Boutique Store,Collector
+315,6,2024-09-04,2,39507.99,79015.98,India,Auction House,Collector
+520,10,2024-09-04,1,253821.58,253821.58,Europe,Boutique Store,First-time Buyer
+86,4,2024-09-04,1,45302.93,45302.93,North America,Boutique Store,Collector
+1378,7,2024-09-06,1,27944.42,27944.42,Europe,Online Exclusive,First-time Buyer
+371,2,2024-09-06,1,14403.49,14403.49,Europe,Online Exclusive,Investor
+450,4,2024-09-06,1,45413.15,45413.15,Asia Pacific,Boutique Store,Gift Purchase
+710,2,2024-09-07,1,14566.67,14566.67,India,Authorized Dealer,Investor
+1113,7,2024-09-07,1,28230.73,28230.73,North America,Boutique Store,First-time Buyer
+543,8,2024-09-07,1,33861.86,33861.86,India,Authorized Dealer,Gift Purchase
+886,1,2024-09-08,1,10384.19,10384.19,Middle East,Authorized Dealer,Collector
+909,2,2024-09-08,1,15871.14,15871.14,Middle East,Authorized Dealer,First-time Buyer
+1530,7,2024-09-09,1,28299.31,28299.31,North America,Authorized Dealer,Collector
+1436,9,2024-09-09,1,219510.38,219510.38,India,Online Exclusive,Collector
+142,2,2024-09-09,1,15048.69,15048.69,India,Authorized Dealer,Gift Purchase
+1779,4,2024-09-09,1,43334.58,43334.58,Europe,Online Exclusive,First-time Buyer
+1077,6,2024-09-09,1,39789.51,39789.51,Asia Pacific,Authorized Dealer,Collector
+1561,3,2024-09-10,1,12191.82,12191.82,India,Online Exclusive,First-time Buyer
+1033,3,2024-09-10,1,12465.17,12465.17,North America,Boutique Store,Collector
+334,7,2024-09-11,2,28287.12,56574.24,Middle East,Boutique Store,Investor
+1775,5,2024-09-12,1,31129.13,31129.13,India,Boutique Store,First-time Buyer
+717,2,2024-09-12,1,14333.63,14333.63,Asia Pacific,Authorized Dealer,Collector
+1278,7,2024-09-12,1,27932.25,27932.25,Europe,Authorized Dealer,Investor
+673,1,2024-09-12,1,10748.27,10748.27,North America,Authorized Dealer,Collector
+248,9,2024-09-13,1,222958.17,222958.17,India,Authorized Dealer,First-time Buyer
+469,1,2024-09-13,1,10439.76,10439.76,India,Authorized Dealer,Gift Purchase
+816,1,2024-09-13,1,11007.04,11007.04,India,Boutique Store,First-time Buyer
+1180,7,2024-09-14,1,28308.03,28308.03,Europe,Boutique Store,First-time Buyer
+153,7,2024-09-14,1,26647.3,26647.3,India,Authorized Dealer,First-time Buyer
+1095,8,2024-09-14,2,37128.14,74256.28,India,Boutique Store,Gift Purchase
+10,7,2024-09-14,1,28381.5,28381.5,India,Boutique Store,First-time Buyer
+1674,4,2024-09-14,1,46494.6,46494.6,Europe,Auction House,First-time Buyer
+513,5,2024-09-15,1,32829.51,32829.51,Asia Pacific,Online Exclusive,Gift Purchase
+148,8,2024-09-16,1,36371.88,36371.88,Europe,Boutique Store,Collector
+1551,7,2024-09-16,1,28518.43,28518.43,Europe,Boutique Store,Collector
+164,2,2024-09-17,1,15737.0,15737.0,Europe,Boutique Store,First-time Buyer
+860,5,2024-09-18,1,32207.19,32207.19,Europe,Boutique Store,Collector
+1339,8,2024-09-18,1,36773.95,36773.95,Asia Pacific,Authorized Dealer,Investor
+550,3,2024-09-19,1,13381.58,13381.58,North America,Authorized Dealer,Collector
+923,2,2024-09-20,1,15963.12,15963.12,Middle East,Boutique Store,Gift Purchase
+698,1,2024-09-21,1,10043.42,10043.42,North America,Authorized Dealer,Collector
+98,6,2024-09-21,1,39701.07,39701.07,Europe,Auction House,Investor
+259,5,2024-09-22,1,33785.77,33785.77,Europe,Boutique Store,Gift Purchase
+249,7,2024-09-22,1,29052.19,29052.19,Asia Pacific,Online Exclusive,Investor
+919,8,2024-09-23,1,37254.61,37254.61,North America,Auction House,Collector
+1755,10,2024-09-23,1,243065.81,243065.81,Asia Pacific,Boutique Store,First-time Buyer
+1794,6,2024-09-24,1,36377.38,36377.38,Europe,Auction House,Investor
+161,1,2024-09-24,1,11281.26,11281.26,Europe,Authorized Dealer,Collector
+1591,3,2024-09-24,2,13337.82,26675.64,North America,Authorized Dealer,Gift Purchase
+1117,7,2024-09-25,1,27627.55,27627.55,North America,Online Exclusive,First-time Buyer
+462,1,2024-09-25,1,10535.24,10535.24,Europe,Authorized Dealer,First-time Buyer
+878,3,2024-09-26,1,12568.48,12568.48,Asia Pacific,Boutique Store,First-time Buyer
+406,11,2024-09-26,1,989022.19,989022.19,India,Auction House,Investor
+1128,6,2024-09-26,1,36435.77,36435.77,Middle East,Online Exclusive,Investor
+1771,1,2024-09-26,1,10890.28,10890.28,India,Authorized Dealer,Investor
+1030,8,2024-09-28,2,35195.33,70390.66,North America,Authorized Dealer,First-time Buyer
+418,7,2024-09-29,1,28531.64,28531.64,Europe,Authorized Dealer,Gift Purchase
+1375,7,2024-09-29,1,30091.58,30091.58,Asia Pacific,Boutique Store,Gift Purchase
+398,7,2024-09-30,1,28887.87,28887.87,Europe,Authorized Dealer,Collector
+1376,9,2024-09-30,1,224599.12,224599.12,North America,Authorized Dealer,First-time Buyer
+1563,1,2024-10-01,1,10311.5,10311.5,North America,Authorized Dealer,Investor
+659,5,2024-10-01,1,31538.37,31538.37,Asia Pacific,Authorized Dealer,First-time Buyer
+354,8,2024-10-01,1,36588.78,36588.78,North America,Online Exclusive,First-time Buyer
+1773,2,2024-10-01,1,15773.7,15773.7,India,Boutique Store,Collector
+331,1,2024-10-01,1,10430.94,10430.94,Middle East,Online Exclusive,First-time Buyer
+865,7,2024-10-02,1,28000.13,28000.13,Europe,Authorized Dealer,Gift Purchase
+1667,4,2024-10-02,1,46211.51,46211.51,Middle East,Auction House,First-time Buyer
+1071,6,2024-10-02,1,38314.16,38314.16,Asia Pacific,Boutique Store,First-time Buyer
+1097,3,2024-10-02,1,13218.42,13218.42,India,Boutique Store,First-time Buyer
+189,2,2024-10-03,1,14573.18,14573.18,North America,Authorized Dealer,Investor
+1303,1,2024-10-03,1,10391.06,10391.06,Europe,Boutique Store,Investor
+868,3,2024-10-03,1,12052.07,12052.07,North America,Online Exclusive,Investor
+837,1,2024-10-03,1,10632.02,10632.02,India,Online Exclusive,Collector
+728,1,2024-10-04,1,11100.12,11100.12,North America,Authorized Dealer,Gift Purchase
+221,2,2024-10-04,1,14794.73,14794.73,India,Authorized Dealer,Investor
+460,1,2024-10-05,1,10232.79,10232.79,Europe,Authorized Dealer,Collector
+1150,5,2024-10-06,1,34007.57,34007.57,Asia Pacific,Authorized Dealer,Collector
+497,5,2024-10-07,1,32543.91,32543.91,North America,Boutique Store,Collector
+920,6,2024-10-08,1,40223.97,40223.97,Europe,Authorized Dealer,First-time Buyer
+437,6,2024-10-09,1,39352.49,39352.49,Europe,Online Exclusive,First-time Buyer
+1672,10,2024-10-09,1,253400.78,253400.78,Asia Pacific,Authorized Dealer,Collector
+856,7,2024-10-09,1,26936.09,26936.09,Europe,Boutique Store,Gift Purchase
+12,1,2024-10-10,1,11065.49,11065.49,Europe,Authorized Dealer,First-time Buyer
+172,7,2024-10-10,1,29344.52,29344.52,India,Authorized Dealer,First-time Buyer
+433,1,2024-10-10,1,10312.37,10312.37,North America,Online Exclusive,Collector
+1286,9,2024-10-10,1,228455.16,228455.16,North America,Authorized Dealer,Gift Purchase
+1696,4,2024-10-11,1,45774.99,45774.99,Europe,Boutique Store,Gift Purchase
+1612,1,2024-10-11,1,11189.16,11189.16,Europe,Boutique Store,Gift Purchase
+531,7,2024-10-12,1,28981.88,28981.88,Asia Pacific,Auction House,First-time Buyer
+918,6,2024-10-12,1,40565.35,40565.35,North America,Online Exclusive,First-time Buyer
+1208,9,2024-10-13,1,237436.58,237436.58,Europe,Boutique Store,Collector
+612,1,2024-10-13,1,11230.43,11230.43,Asia Pacific,Authorized Dealer,Collector
+412,9,2024-10-14,1,236665.64,236665.64,North America,Boutique Store,Investor
+1546,7,2024-10-14,1,30192.0,30192.0,Europe,Boutique Store,Gift Purchase
+219,9,2024-10-14,1,218070.05,218070.05,North America,Online Exclusive,Investor
+1603,1,2024-10-15,1,10193.8,10193.8,North America,Authorized Dealer,Investor
+669,7,2024-10-16,1,30092.05,30092.05,Asia Pacific,Authorized Dealer,Investor
+1084,1,2024-10-16,1,10485.99,10485.99,India,Authorized Dealer,First-time Buyer
+97,1,2024-10-16,1,10417.45,10417.45,Asia Pacific,Boutique Store,First-time Buyer
+803,2,2024-10-16,1,14384.53,14384.53,North America,Authorized Dealer,Gift Purchase
+1430,7,2024-10-17,1,29465.6,29465.6,Europe,Authorized Dealer,Investor
+686,1,2024-10-17,1,11056.1,11056.1,North America,Boutique Store,Investor
+1441,7,2024-10-18,1,27509.74,27509.74,Middle East,Boutique Store,Investor
+425,1,2024-10-18,1,11232.58,11232.58,India,Authorized Dealer,Gift Purchase
+781,4,2024-10-19,1,43962.31,43962.31,North America,Authorized Dealer,Gift Purchase
+173,3,2024-10-19,1,12806.41,12806.41,Asia Pacific,Auction House,First-time Buyer
+1594,2,2024-10-20,1,15590.28,15590.28,North America,Online Exclusive,Collector
+115,3,2024-10-21,1,12296.57,12296.57,North America,Online Exclusive,First-time Buyer
+1250,4,2024-10-21,1,44646.83,44646.83,Asia Pacific,Boutique Store,Collector
+948,2,2024-10-22,1,14629.37,14629.37,Asia Pacific,Authorized Dealer,Collector
+1188,7,2024-10-22,1,28678.35,28678.35,India,Authorized Dealer,Collector
+7,5,2024-10-23,1,32676.5,32676.5,Europe,Boutique Store,Gift Purchase
+65,1,2024-10-23,1,11115.29,11115.29,India,Auction House,Collector
+944,6,2024-10-23,1,40482.81,40482.81,India,Authorized Dealer,First-time Buyer
+967,3,2024-10-23,1,12887.7,12887.7,India,Authorized Dealer,Gift Purchase
+109,1,2024-10-23,1,10497.91,10497.91,North America,Boutique Store,First-time Buyer
+605,1,2024-10-23,1,10727.76,10727.76,Europe,Authorized Dealer,Investor
+1529,3,2024-10-23,1,13036.95,13036.95,Middle East,Online Exclusive,Investor
+1356,3,2024-10-24,1,13442.57,13442.57,Europe,Authorized Dealer,Collector
+73,2,2024-10-25,1,15371.95,15371.95,Asia Pacific,Auction House,Investor
+719,3,2024-10-25,1,12352.21,12352.21,North America,Authorized Dealer,First-time Buyer
+1199,3,2024-10-26,1,12853.63,12853.63,Middle East,Auction House,Gift Purchase
+1007,4,2024-10-26,1,43913.09,43913.09,North America,Authorized Dealer,Collector
+1570,2,2024-10-27,1,15964.39,15964.39,North America,Boutique Store,Investor
+1047,2,2024-10-27,1,15911.37,15911.37,Europe,Auction House,Investor
+267,4,2024-10-27,1,43719.11,43719.11,Europe,Authorized Dealer,Collector
+1019,8,2024-10-27,1,34783.58,34783.58,Asia Pacific,Authorized Dealer,Collector
+483,5,2024-10-28,1,31992.21,31992.21,Asia Pacific,Boutique Store,Collector
+849,7,2024-10-28,1,27046.03,27046.03,Europe,Boutique Store,Collector
+889,3,2024-10-29,1,12302.88,12302.88,Europe,Boutique Store,Gift Purchase
+449,5,2024-10-30,1,34144.12,34144.12,North America,Online Exclusive,Gift Purchase
+1688,1,2024-10-31,1,10619.02,10619.02,Asia Pacific,Authorized Dealer,First-time Buyer
+1402,6,2024-10-31,1,38825.0,38825.0,North America,Authorized Dealer,Gift Purchase
+802,8,2024-10-31,1,36951.79,36951.79,Asia Pacific,Authorized Dealer,First-time Buyer
+1477,3,2024-10-31,1,13146.33,13146.33,India,Authorized Dealer,Collector
+299,2,2024-10-31,1,14882.36,14882.36,North America,Authorized Dealer,Collector
+338,5,2024-10-31,1,31607.38,31607.38,Asia Pacific,Boutique Store,First-time Buyer
+933,1,2024-10-31,1,10057.41,10057.41,Europe,Boutique Store,Investor
+558,7,2024-10-31,1,28382.0,28382.0,Europe,Authorized Dealer,First-time Buyer
+898,3,2024-11-01,1,13399.51,13399.51,Europe,Authorized Dealer,Collector
+864,3,2024-11-02,1,12814.28,12814.28,Asia Pacific,Boutique Store,First-time Buyer
+1624,4,2024-11-03,1,43094.64,43094.64,North America,Auction House,First-time Buyer
+1772,8,2024-11-03,1,37537.62,37537.62,Asia Pacific,Boutique Store,First-time Buyer
+1577,3,2024-11-03,1,12782.03,12782.03,Asia Pacific,Boutique Store,First-time Buyer
+1087,3,2024-11-04,1,12305.65,12305.65,Europe,Online Exclusive,Investor
+1558,5,2024-11-04,1,31347.92,31347.92,Asia Pacific,Boutique Store,First-time Buyer
+1756,2,2024-11-06,1,14827.93,14827.93,North America,Boutique Store,First-time Buyer
+947,6,2024-11-06,1,40352.46,40352.46,Middle East,Boutique Store,First-time Buyer
+1131,6,2024-11-07,1,37592.14,37592.14,North America,Authorized Dealer,Collector
+631,1,2024-11-07,1,10603.16,10603.16,North America,Online Exclusive,Collector
+431,1,2024-11-08,1,10714.73,10714.73,Europe,Authorized Dealer,Collector
+712,1,2024-11-08,1,11163.55,11163.55,Europe,Auction House,Collector
+1173,4,2024-11-09,1,43861.22,43861.22,Asia Pacific,Boutique Store,First-time Buyer
+577,7,2024-11-10,1,30173.59,30173.59,Asia Pacific,Boutique Store,First-time Buyer
+434,9,2024-11-10,1,229575.58,229575.58,Asia Pacific,Boutique Store,Collector
+1098,4,2024-11-10,1,44920.22,44920.22,Europe,Boutique Store,First-time Buyer
+1115,4,2024-11-10,1,44172.21,44172.21,North America,Boutique Store,Investor
+1159,2,2024-11-11,1,15377.96,15377.96,North America,Boutique Store,Collector
+1387,8,2024-11-11,1,34069.9,34069.9,North America,Authorized Dealer,First-time Buyer
+593,2,2024-11-11,1,15813.48,15813.48,India,Authorized Dealer,Gift Purchase
+493,2,2024-11-12,1,15231.3,15231.3,India,Authorized Dealer,First-time Buyer
+1333,6,2024-11-13,2,39310.62,78621.24,Europe,Authorized Dealer,First-time Buyer
+1297,10,2024-11-13,1,238226.83,238226.83,Asia Pacific,Online Exclusive,Collector
+1024,2,2024-11-14,1,14960.07,14960.07,North America,Online Exclusive,Collector
+417,10,2024-11-15,1,254221.63,254221.63,Europe,Auction House,Collector
+676,1,2024-11-15,1,10893.42,10893.42,India,Authorized Dealer,Investor
+852,2,2024-11-16,1,14971.98,14971.98,Middle East,Online Exclusive,Gift Purchase
+404,1,2024-11-17,1,11103.57,11103.57,Europe,Online Exclusive,First-time Buyer
+325,3,2024-11-17,1,11969.25,11969.25,Middle East,Authorized Dealer,First-time Buyer
+1419,2,2024-11-17,1,15633.27,15633.27,Europe,Online Exclusive,First-time Buyer
+1746,2,2024-11-18,1,15771.85,15771.85,Europe,Boutique Store,First-time Buyer
+701,3,2024-11-18,1,12184.89,12184.89,Europe,Authorized Dealer,Collector
+1215,1,2024-11-20,1,10554.56,10554.56,Europe,Boutique Store,Investor
+758,3,2024-11-20,1,13056.56,13056.56,Europe,Authorized Dealer,Collector
+38,8,2024-11-20,1,34528.01,34528.01,Europe,Online Exclusive,Collector
+546,10,2024-11-21,1,238047.36,238047.36,Europe,Authorized Dealer,Collector
+836,1,2024-11-21,1,10625.56,10625.56,Asia Pacific,Boutique Store,First-time Buyer
+1631,2,2024-11-21,1,14755.75,14755.75,Asia Pacific,Boutique Store,Collector
+1106,6,2024-11-22,1,37357.73,37357.73,Asia Pacific,Boutique Store,First-time Buyer
+1169,10,2024-11-22,1,266560.11,266560.11,Europe,Boutique Store,First-time Buyer
+1711,3,2024-11-22,1,12721.62,12721.62,Asia Pacific,Authorized Dealer,Collector
+1345,4,2024-11-23,1,43926.81,43926.81,Europe,Auction House,Gift Purchase
+775,6,2024-11-23,1,40468.26,40468.26,India,Authorized Dealer,Collector
+137,2,2024-11-23,1,15130.05,15130.05,Europe,Authorized Dealer,Collector
+1114,4,2024-11-27,1,43641.43,43641.43,Europe,Auction House,First-time Buyer
+85,8,2024-11-27,1,37480.93,37480.93,Asia Pacific,Authorized Dealer,Investor
+1495,1,2024-11-27,1,10581.56,10581.56,Asia Pacific,Boutique Store,Investor
+1682,3,2024-11-28,1,12786.65,12786.65,Asia Pacific,Authorized Dealer,Investor
+1015,2,2024-11-29,1,15868.1,15868.1,India,Authorized Dealer,Investor
+386,6,2024-11-30,1,39257.59,39257.59,North America,Boutique Store,Gift Purchase
+1639,1,2024-12-02,1,10979.96,10979.96,Asia Pacific,Boutique Store,Collector
+618,7,2024-12-03,1,28680.24,28680.24,Asia Pacific,Authorized Dealer,First-time Buyer
+1556,6,2024-12-03,1,39487.35,39487.35,North America,Boutique Store,Collector
+383,2,2024-12-03,1,15475.84,15475.84,India,Online Exclusive,Investor
+1544,3,2024-12-04,1,12783.41,12783.41,North America,Boutique Store,Investor
+1094,3,2024-12-04,1,12392.12,12392.12,Asia Pacific,Boutique Store,Investor
+1521,8,2024-12-04,1,35822.68,35822.68,North America,Authorized Dealer,First-time Buyer
+282,3,2024-12-05,1,12633.9,12633.9,Middle East,Auction House,Collector
+667,6,2024-12-05,1,36128.18,36128.18,India,Online Exclusive,Investor
+787,7,2024-12-05,1,28297.68,28297.68,Europe,Online Exclusive,Gift Purchase
+902,3,2024-12-06,1,13133.15,13133.15,Middle East,Boutique Store,Collector
+892,6,2024-12-08,2,38385.79,76771.58,North America,Authorized Dealer,First-time Buyer
+1323,9,2024-12-08,1,219042.92,219042.92,North America,Boutique Store,Investor
+697,3,2024-12-09,1,12830.93,12830.93,Europe,Auction House,First-time Buyer
+1599,7,2024-12-09,1,28856.9,28856.9,North America,Auction House,Investor
+692,1,2024-12-09,1,10417.15,10417.15,Europe,Boutique Store,Collector
+399,2,2024-12-09,1,14504.91,14504.91,North America,Authorized Dealer,First-time Buyer
+1760,1,2024-12-09,1,11067.29,11067.29,Asia Pacific,Boutique Store,Gift Purchase
+255,1,2024-12-10,1,10813.01,10813.01,Asia Pacific,Boutique Store,Investor
+762,9,2024-12-10,1,225191.55,225191.55,India,Auction House,Investor
+1720,3,2024-12-11,1,12150.03,12150.03,North America,Boutique Store,First-time Buyer
+1442,8,2024-12-11,1,36657.15,36657.15,North America,Boutique Store,First-time Buyer
+1163,1,2024-12-11,1,11308.7,11308.7,Asia Pacific,Boutique Store,Collector
+899,1,2024-12-11,1,10617.15,10617.15,Middle East,Online Exclusive,Collector
+1713,1,2024-12-11,1,10101.61,10101.61,North America,Auction House,Collector
+976,5,2024-12-13,1,33530.02,33530.02,Middle East,Boutique Store,Collector
+1276,7,2024-12-13,1,28839.65,28839.65,North America,Boutique Store,Gift Purchase
+345,11,2024-12-13,1,931939.39,931939.39,Asia Pacific,Authorized Dealer,Collector
+774,4,2024-12-13,1,45739.18,45739.18,Europe,Boutique Store,Gift Purchase
+1241,2,2024-12-13,1,14401.63,14401.63,Europe,Auction House,Investor
+1752,1,2024-12-14,2,10777.07,21554.14,Asia Pacific,Authorized Dealer,First-time Buyer
+1480,1,2024-12-14,1,10693.38,10693.38,North America,Authorized Dealer,Collector
+961,3,2024-12-14,1,13177.98,13177.98,North America,Authorized Dealer,First-time Buyer
+1589,1,2024-12-15,1,10409.38,10409.38,Middle East,Boutique Store,Collector
+370,3,2024-12-16,1,12286.4,12286.4,North America,Boutique Store,First-time Buyer
+1740,2,2024-12-16,1,15358.06,15358.06,Europe,Authorized Dealer,Collector
+872,8,2024-12-16,1,34352.29,34352.29,North America,Auction House,First-time Buyer
+639,1,2024-12-16,1,10002.44,10002.44,Asia Pacific,Auction House,First-time Buyer
+1576,2,2024-12-17,1,16039.93,16039.93,Europe,Boutique Store,Collector
+1670,4,2024-12-17,1,47594.48,47594.48,North America,Boutique Store,Investor
+306,5,2024-12-18,1,30640.44,30640.44,Europe,Boutique Store,Collector
+385,2,2024-12-18,1,14490.77,14490.77,Asia Pacific,Authorized Dealer,First-time Buyer
+727,2,2024-12-18,2,14555.67,29111.34,Europe,Boutique Store,First-time Buyer
+430,3,2024-12-19,1,12707.25,12707.25,India,Authorized Dealer,First-time Buyer
+37,4,2024-12-20,1,44262.75,44262.75,Asia Pacific,Authorized Dealer,Gift Purchase
+1433,5,2024-12-20,1,34243.34,34243.34,Middle East,Authorized Dealer,First-time Buyer
+357,8,2024-12-20,1,34518.77,34518.77,Middle East,Online Exclusive,Collector
+356,1,2024-12-20,1,10260.16,10260.16,North America,Authorized Dealer,Gift Purchase
+1714,2,2024-12-21,1,16088.03,16088.03,India,Boutique Store,Investor
+809,3,2024-12-21,1,13397.5,13397.5,Middle East,Auction House,Investor
+1057,5,2024-12-22,1,30473.72,30473.72,Europe,Online Exclusive,First-time Buyer
+1156,4,2024-12-22,1,44939.74,44939.74,Asia Pacific,Boutique Store,Investor
+376,6,2024-12-22,1,39564.78,39564.78,Europe,Boutique Store,First-time Buyer
+982,1,2024-12-22,1,10494.15,10494.15,Europe,Boutique Store,Collector
+1243,1,2024-12-22,1,10811.27,10811.27,Europe,Boutique Store,Gift Purchase
+291,2,2024-12-23,1,15639.43,15639.43,North America,Authorized Dealer,First-time Buyer
+229,3,2024-12-23,1,12655.38,12655.38,Asia Pacific,Online Exclusive,Investor
+39,2,2024-12-24,1,14889.43,14889.43,North America,Online Exclusive,First-time Buyer
+112,3,2024-12-24,1,12769.58,12769.58,Middle East,Boutique Store,First-time Buyer
+1080,6,2024-12-24,1,36481.52,36481.52,Europe,Online Exclusive,Collector
+1155,2,2024-12-24,1,16067.56,16067.56,India,Auction House,First-time Buyer
+1194,11,2024-12-25,1,918191.38,918191.38,North America,Auction House,Collector
+71,4,2024-12-26,1,43546.12,43546.12,India,Online Exclusive,Collector
+1515,3,2024-12-26,1,11947.41,11947.41,North America,Authorized Dealer,Investor
+1671,1,2024-12-27,1,10905.64,10905.64,North America,Auction House,Collector
+1002,9,2024-12-27,1,223499.86,223499.86,Middle East,Online Exclusive,Gift Purchase
+925,9,2024-12-27,1,230868.1,230868.1,Europe,Authorized Dealer,First-time Buyer
+1468,6,2024-12-27,1,36859.46,36859.46,Middle East,Boutique Store,Investor
+155,10,2024-12-28,1,253843.31,253843.31,India,Boutique Store,Investor
+1370,4,2024-12-29,1,46279.22,46279.22,Middle East,Boutique Store,Investor
+1676,2,2024-12-29,1,15907.76,15907.76,North America,Auction House,First-time Buyer
+1751,2,2024-12-30,1,16005.07,16005.07,India,Boutique Store,Collector
+731,10,2024-12-31,1,252273.25,252273.25,Middle East,Boutique Store,Gift Purchase
+1552,5,2024-12-31,1,32837.42,32837.42,India,Online Exclusive,Collector
